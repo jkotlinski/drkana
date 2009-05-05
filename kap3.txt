@@ -1,0 +1,123 @@
+﻿frukost
+%%
+あさごはん
+%%
+hem/hus
+%%
+うち（いえ）
+%%
+film/bio
+%%
+えいが
+%%
+sake/sprit
+%%
+おさけ
+%%
+te
+%%
+おちゃ
+%%
+musik
+%%
+おんがく
+%%
+skola
+%%
+がっこう
+%%
+date
+%%
+デート
+%%
+tv
+%%
+テレビ
+%%
+vatten
+%%
+みず
+%%
+att gå/åka
+%%
+いく
+%%
+att stiga upp
+%%
+おきる
+%%
+att gå/åka hem
+%%
+かえる
+%%
+att höra/lyssna, fråga
+%%
+きく
+%%
+att komma
+%%
+くる
+%%
+att göra
+%%
+する
+%%
+att äta
+%%
+たべる
+%%
+att sova/somna
+%%
+ねる
+%%
+att dricka
+%%
+のむ
+%%
+att prata/tala
+%%
+はなす
+%%
+att se/titta
+%%
+みる
+%%
+att läsa
+%%
+よむ
+%%
+god, bra
+%%
+いい
+%%
+snabb, tidig
+%%
+はやい
+%%
+sällan
+%%
+あまり＋negationsord
+%%
+aldrig
+%%
+ぜんぜん＋negationsord
+%%
+lite
+%%
+ちょっと
+%%
+ibland
+%%
+ときどき
+%%
+ofta
+%%
+よく
+%%
+Låt mig tänka...
+%%
+そうですね
+%%
+men
+%%
+でも

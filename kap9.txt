@@ -1,0 +1,75 @@
+﻿färg
+%%
+いろ
+%%
+matlåda
+%%
+おべんとう
+%%
+varmvattenkälla
+%%
+おんせん
+%%
+medicin
+%%
+くすり
+%%
+uppsats
+%%
+さくぶん
+%%
+ord, glosa
+%%
+たんご
+%%
+förra månaden
+%%
+せんげつ
+%%
+sjukdom
+%%
+びょうき
+%%
+popularitet
+%%
+にんき
+%%
+röd
+%%
+あかい
+%%
+svart
+%%
+くろい
+%%
+ung
+%%
+わかい
+%%
+taskig
+%%
+いじわるだ
+%%
+(nånting) att sluta
+%%
+おわる
+%%
+(nånting) att börja
+%%
+はじまる
+%%
+att få (från någon)
+%%
+もらう
+%%
+att memorera
+%%
+おぼえる
+%%
+förresten
+%%
+ところで
+%%
+redan
+%%
+もう

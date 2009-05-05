@@ -1,0 +1,282 @@
+att gå/åka
+%%
+いく、いきます
+%%
+att stiga upp
+%%
+おきる、おきます
+%%
+att gå/åka hem
+%%
+かえる、かえります
+%%
+att höra/lyssna, fråga
+%%
+きく、ききます
+%%
+att komma
+%%
+くる、きます
+%%
+att göra
+%%
+する、します
+%%
+att äta
+%%
+たべる、たべます
+%%
+att sova/somna
+%%
+ねる、ねます
+%%
+att dricka
+%%
+のむ、のみます
+%%
+att prata/tala
+%%
+はなす、はなします
+%%
+att se/titta
+%%
+みる、みます
+%%
+att läsa
+%%
+よむ、よみます
+%%
+att träffas
+%%
+あう、あいます
+%%
+att finnas (saker)
+%%
+ある、あります
+%%
+att finnas (människor)
+%%
+いる、います
+%%
+att köpa
+%%
+かう、かいます
+%%
+att skriva
+%%
+かく、かきます
+%%
+att vänta
+%%
+まつ、まちます
+%%
+att förstå, att veta
+%%
+わかる、わかります
+%%
+to play, to spend time pleasantly
+%%
+あそぶ、あそびます
+%%
+to enter （～に）
+%%
+はいる、はいります
+%%
+to die
+%%
+しぬ、しにます
+%%
+to sit down （seat に）
+%%
+すわる、すわります
+%%
+to help （person/task を）
+%%
+てつだう、てつだいます
+%%
+to carry, to hold （～を）
+%%
+もつ、もちます
+%%
+（1） to be absent （from ～を） 
+（2） to rest
+%%
+やすむ、やすみます
+%%
+to teach, to instruct （person に thing を）
+%%
+おしえる、おしえます
+%%
+to get off （～を）
+%%
+おりる、おります
+%%
+to forget, to leave behind （～を）
+%%
+わすれる、わすれます
+%%
+to bring （a person） （～を）
+%%
+つれてくる、つれてきます
+%%
+to bring （a thing） （～を）
+%%
+もってくる、もってきます
+%%
+att veta (to get to know)
+%%
+しる、しります
+%%
+att bo
+%%
+すむ、すみます
+%%
+att klä på
+%%
+きる、きます
+%%
+att bli smal
+%%
+やせる、やせます
+%%
+(regn) att falla
+%%
+ふる、ふります
+%%
+att säga
+%%
+いう、いいます
+%%
+att tänka, tycka
+%%
+おもう、おもいます
+%%
+att tillverka
+%%
+つくる、つくります
+%%
+att komma med, ha med
+%%
+もっていく、もっていきます
+%%
+(man) att börja
+%%
+はじめる、はじめます
+%%
+(nånting) att sluta
+%%
+おわる、おわります
+%%
+(nånting) att börja
+%%
+はじまる、はじまります
+%%
+att få (från någon)
+%%
+もらう、もらいます
+%%
+att memorera
+%%
+おぼえる、おぼえます
+%%
+att fotografera
+%%
+とる、とります
+%%att simma
+%%
+およぐ、およぎます
+%%
+att fråga
+%%
+きく、ききます
+%%
+att gå på/åka på
+%%
+のる、のります
+%%
+att göra (intim)
+%%
+やる、やります
+%%
+att gå ut
+%%
+でかける、でかけます
+%%
+att ta
+%%
+かかる、かかります
+%%
+att stanna
+%%
+とまる、とまります
+%%
+att bli
+%%
+なる、なります
+%%
+att betala
+%%
+はらう、はらいます
+%%
+att bestämma
+%%
+きめる、きめます
+%%
+att ljuga
+%%
+うそをつく
+%%
+att bli hungrig
+%%
+おなかがすく 	  	  	  	 %%
+skolka
+%%
+サボる、サボります
+%%
+att ha husdjur
+%%
+かう、かいます
+%%
+att bli tom
+%%
+すく、すきます
+%%
+fotografera
+%%
+とる、とります
+%%
+att lära sig
+%%
+ならう、ならいます
+%%
+att arbeta
+%%
+はたらく、はたらきます
+%%
+att bli trött
+%%
+つかれる、つかれます
+%%
+att hoppa av
+%%
+やめる、やめます
+%%
+att vara törstig
+%%
+のどがかわく、のどがかわきます
+%%
+förlora ngt
+%%
+なくす、なくします
+%%
+att bli förkyld
+%%
+かぜをひく、かぜをひきます
+%%
+att hosta
+%%
+せきがでる、せきがでます
+%%
+att separera
+%%
+わかれる、わかれます

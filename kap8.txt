@@ -1,0 +1,107 @@
+﻿regn
+%%
+あめ
+%%
+kontorsarbetare
+%%
+かいしゃいん
+%%
+luft
+%%
+くうき
+%%
+i morse
+%%
+けさ
+%%
+student
+%%
+だいがくせい
+%%
+väderleksrapport
+%%
+てんきよほう
+%%
+plats
+%%
+ところ
+%%
+varje vecka
+%%
+まいしゅう
+%%
+sommar
+%%
+なつ
+%%
+(bil)körning
+%%
+うんてん
+%%
+klädtvättning
+%%
+せんたく
+%%
+städning
+%%
+そうじ
+%%
+bra på
+%%
+じょうずだ
+%%
+dålig på
+%%
+へただ
+%%
+berömd
+%%
+ゆうめいだ
+%%
+(regn) att falla
+%%
+ふる
+%%
+att säga
+%%
+いう
+%%
+att tänka, tycka
+%%
+おもう
+%%
+att tillverka
+%%
+つくる
+%%
+att komma med, ha med
+%%
+もっていく
+%%
+(man) att börja
+%%
+はじめる
+%%
+att stirra, glo
+%%
+じろじろ＋見る
+%%
+nej (informell)
+%%
+ううん
+%%
+ja (informell)
+%%
+うん
+%%
+skål!
+%%
+かんぱい
+%%
+det är synd
+%%
+ざんねん（ですね）
+%%
+inte ännu
+%%
+まだ＋negation

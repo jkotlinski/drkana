@@ -1,0 +1,147 @@
+plate; dish
+%%
+皿（さら）
+%%
+voice
+%%
+声（こえ）
+%%
+Japanese tea
+%%
+お茶（おチャ）
+%%
+teahouse
+%%
+茶店（チャみせ）
+%%
+(something) stops
+%%
+止まる（とまる）
+%%
+one sheet
+%%
+一枚（イチマイ）
+%%
+ryou
+%%
+両（リョウ）
+%%
+parents
+%%
+両親（リョウシン）
+%%
+impossible
+%%
+無理な（ムリな）
+%%
+to pay
+%%
+払う（はらう）
+%%
+heart; mind
+%%
+心（こころ）
+%%
+to laugh
+%%
+笑う（わらう）
+%%
+definitely
+%%
+絶対に（ゼッタイに）
+%%
+painful
+%%
+痛い（いたい）
+%%
+the worst
+%%
+最悪（サイアク）
+%%
+recently
+%%
+最近（サイキン）
+%%
+to continue
+%%
+続ける（つづける）
+%%
+kärnkraft
+%%
+原子力（げんしりょく）
+%%
+väte
+%%
+水素（すいそ )
+%%
+kol
+%%
+炭素（たんそ）
+%%
+kväve
+%%
+窒素（ちっそ）
+%%
+kemisk formel
+%%
+化学式（かがくしき）
+%%
+cell
+%%
+細胞（さいぼう）
+%%
+temperatur
+%%
+温度（おんど）
+%%
+hastighet
+%%
+速度（そくど）
+%%
+tryck
+%%
+圧力（あつりょく）
+%%
+molekylär vikt
+%%
+分子量（ぶんしりょう）
+%%
+grund
+%%
+原
+%%
+ursprung
+%%
+素
+%%
+kol
+%%
+炭
+%%
+instängd
+%%
+窒
+%%
+modell
+%%
+式
+%%
+liten
+%%
+細
+%%
+linda in
+%%
+胞
+%%
+grad
+%%
+度
+%%
+pressa ner
+%%
+圧
+%%
+volym, massa
+%%
+量

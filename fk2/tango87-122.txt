@@ -1,0 +1,143 @@
+att hosta
+%%
+せきがでる、せきがでます
+%%
+att separera
+%%
+わかれる、わかれます
+%%
+alltid
+%%
+いつも
+%%
+sköt om dig!
+%%
+おだいじに
+%%
+kanske
+%%
+たぶん
+%%
+så mycket som möjligt
+%%
+できるだけ
+%%
+för första gången
+%%
+はじめて
+%%
+farfar/morfar, gubbe
+%%
+おじいさん
+%%
+(ditt) hem
+%%
+おたく
+%%
+vuxen
+%%
+おとな
+%%
+främmande språk
+%%
+がいこくご
+%%
+ord
+%%
+ことば
+%%
+elefant
+%%
+ぞう
+%%
+varupris
+%%
+ぶっか
+%%
+grammatik
+%%
+ぶんぽう
+%%
+rekrytering
+%%
+ぼしゅう
+%%
+löfte
+%%
+やくそく
+%%
+glad
+%%
+うれしい
+%%
+ledsen
+%%
+かなしい
+%%
+stark (smak), hård
+%%
+からい
+%%
+hård, sträng
+%%
+きびしい
+%%
+nära
+%%
+ちかい
+%%
+varierande
+%%
+いろいろだ
+%%
+lycklig
+%%
+しあわせだ
+%%
+dålig, icke bra
+%%
+だめだ
+%%
+att låna ut
+%%
+かす、かします
+%%
+att kämpa på
+%%
+がんばる、がんばります
+%%
+att gråta
+%%
+なく、なきます
+%%
+att hålla, försvara
+%%
+まもる、まもります
+%%
+att finna (artig)
+%%
+いらっしゃる、いらっしゃります
+%%
+själva verket
+%%
+じつは
+%%
+alltihop
+%%
+ぜんぶ
+%%
+jag heter (artig)
+%%
+〜ともうします
+%%
+min storebror
+%%
+あに
+%%
+hyresvärd
+%%
+おおやさん
+%%
+present som ges tillbaka
+%%
+おかえし

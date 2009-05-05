@@ -1,0 +1,91 @@
+﻿företag
+%%
+かいしゃ
+%%
+familj
+%%
+かぞく
+%%
+hår
+%%
+かみ
+%%
+land, nation
+%%
+くに
+%%
+bil
+%%
+くるま
+%%
+ögon
+%%
+め
+%%
+glasögon
+%%
+めがね
+%%
+huvud
+%%
+あたま
+%%
+rygg, personens längd
+%%
+せ
+%%
+äktenskap
+%%
+けっこん
+%%
+söt
+%%
+かわいい
+%%
+snabb, tidig
+%%
+はやい
+%%
+great-looking
+%%
+かっこいい
+%%
+snäll, vänlig
+%%
+しんせつだ
+%%
+användbar
+%%
+べんりだ
+%%
+att veta (to get to know)
+%%
+しる
+%%
+att bo
+%%
+すむ
+%%
+att klä på
+%%
+きる
+%%
+att bli smal
+%%
+やせる
+%%
+men
+%%
+が
+%%
+(inte) någonting
+%%
+なにも
+%%
+självklart
+%%
+もちろん
+%%
+om du vill
+%%
+よかったら

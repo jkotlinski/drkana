@@ -1,0 +1,231 @@
+city
+%%
+市（シ）
+%%
+Kawaguchi city
+%%
+川口市（かわぐちシ）
+%%
+place
+%%
+所（ところ、ジョ）
+%%
+various places
+%%
+いろいろな所（いろいろなところ）
+%%
+to make effort
+%%
+勉（ベン）
+%%
+to study
+%%
+勉強する（ベンキョウする）
+%%
+strong
+%%
+強い（つよい）
+%%
+to exist
+%%
+有（ユウ）
+%%
+famous
+%%
+有名な（ユウメイな）
+%%
+travel
+%%
+旅行（リョコウ）
+%%
+old times
+%%
+昔（むかし）
+%%
+(symbol of repetition of a kanji)
+%%
+々
+%%
+God
+%%
+神さま（かみさま）
+%%
+shrine
+%%
+神社（ジンジャ）
+%%
+early
+%%
+早い（はやい）
+%%
+to get up
+%%
+起きる（おきる）
+%%
+cow
+%%
+牛（うし）
+%%
+beef
+%%
+牛肉（ギュウにく）
+%%
+to use
+%%
+使う（つかう）
+%%
+to work
+%%
+働く（はたらく）
+%%
+to take home
+%%
+連れて帰る（つれてかえる）
+%%
+to link
+%%
+連（つ）
+%%
+to separate
+%%
+別れる（わかれる）
+%%
+not in particular
+%%
+別に（ベツに）
+%%
+time; degrees
+%%
+度（ド）
+%%
+once
+%%
+一度（イチド）
+%%
+near future
+%%
+今度（コンド）
+%%
+red color
+%%
+赤（あか）
+%%
+red
+%%
+赤い（あかい）
+%%
+blue color
+%%
+青（あお）
+%%
+blue
+%%
+青い（あおい）
+%%
+color
+%%
+色（いろ）
+%%
+sak
+%%
+物（もの）
+%%
+mat
+%%
+食べ物（たべもの）
+%%
+shopping
+%%
+買い物（かいもの）
+%%
+fågel
+%%
+鳥（とり）
+%%
+ingrediens; avgift
+%%
+料（リョウ）
+%%
+matlagning
+%%
+料理（リョウリ）
+%%
+skäl
+%%
+理（リ）
+%%
+especially
+%%
+特に（トクに）
+%%
+cheap
+%%
+安い（やすい）
+%%
+rice; meal
+%%
+ご飯（ごハン）
+%%
+breakfast
+%%
+朝ご飯（あさごハン）
+%%
+meat
+%%
+肉（ニク）
+%%
+bad
+%%
+悪い（わるい）
+%%
+to feel sick
+%%
+気分が悪い（きぶんがわるい）
+%%
+body
+%%
+体（からだ）
+%%
+sky; empty
+%%
+空（クウ）
+%%
+airport
+%%
+空港（クウコウ）
+%%
+air
+%%
+空気（クウキ）
+%%
+port; harbor
+%%
+港（コウ）
+%%
+to arrive
+%%
+着く（つく）
+%%
+to wear
+%%
+着る（きる）
+%%
+kimono
+%%
+着物（きもの）
+%%
+same
+%%
+同じ（おなじ）
+%%
+sea
+%%
+海（うみ）
+%%
+noon; daytime
+%%
+昼（ひる）
+%%
+lunch
+%%
+昼ご飯（ひるごハン）

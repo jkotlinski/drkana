@@ -1,0 +1,127 @@
+purpose
+%%
+目的（モクテキ）
+%%
+eyes
+%%
+目（め）
+%%
+physical work; manual labour
+%%
+力仕事（ちからしごと）
+%%
+Western clothes
+%%
+洋服（ヨウフク）
+%%
+clothes
+%%
+服（フク）
+%%
+dining room
+%%
+食堂（ショクドウ）
+%%
+class
+%%
+授業（ジュギョウ）
+%%
+exam
+%%
+試験（シケン）
+%%
+to lend
+%%
+貸す（かす）
+%%
+library
+%%
+図書館（トショカン）
+%%
+map
+%%
+地図（チズ）
+%%
+movie theater
+%%
+映画館（エイガカン）
+%%
+Japanese inn
+%%
+旅館（リョカン）
+%%
+to come to an end
+%%
+終わる（おわる）
+%%
+homework
+%%
+宿題（シュクダイ）
+%%
+spring
+%%
+春（はる）
+%%
+autumn
+%%
+秋（あき）
+%%
+winter
+%%
+冬（ふゆ）
+%%
+winter vacation
+%%
+冬休み（ふゆやすみ）
+%%
+flower
+%%
+花（はな）
+%%
+Mr./Ms...
+%%
+様（さま）
+%%
+uneasy; worried
+%%
+不安な（フアンな）
+%%
+older sister (kort)
+%%
+姉（あね）
+%%
+older sister (lång)
+%%
+お姉さん（おねえさん）
+%%
+older brother (kort)
+%%
+兄（あに）
+%%
+older brother (lång)
+%%
+お兄さん（おにいさん）
+%%
+Chinese character
+%%
+漢字（カンジ）
+%%
+to graduate
+%%
+卒業する（ソツギョウする）
+%%
+engineering
+%%
+工学（コウガク）
+%%
+research
+%%
+研究（ケンキュウ）
+%%
+question
+%%
+質問（シツモン）
+%%
+many
+%%
+多い（おおい）

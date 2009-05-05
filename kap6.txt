@@ -1,0 +1,88 @@
+﻿money
+%%
+おかね
+%%
+bath
+%%
+おふろ
+%%
+kanji, Chinese character
+%%
+かんじ
+%%
+textbook
+%%
+きょうかしょ
+%%
+electricy
+%%
+でんき
+%%
+tough （situation）, hemsk
+%%
+たいへんだ
+%%
+to play, to spend time pleasantly
+%%
+あそぶ
+%%
+to enter （～に）
+%%
+はいる
+%%
+to die
+%%
+しぬ
+%%
+to sit down （seat に）
+%%
+すわる
+%%
+to help （person/task を）
+%%
+てつだう
+%%
+to carry, to hold （～を）
+%%
+もつ
+%%
+（1） to be absent （from ～を） 
+（2） to rest
+%%
+やすむ
+%%
+to teach, to instruct （person に thing を）
+%%
+おしえる
+%%
+to get off （～を）
+%%
+おりる
+%%
+to forget, to leave behind （～を）
+%%
+わすれる
+%%
+to bring （a person） （～を）
+%%
+つれてくる
+%%
+to bring （a thing） （～を）
+%%
+もってくる
+%%
+That would be fine, That wouldn't be necessary.
+%%
+けっこうです
+%%
+because...
+%%
+～から
+%%
+right away
+%%
+すぐ
+%%
+Slowly, leisurely, unhurriedly
+%%
+ゆっくり

@@ -1,0 +1,71 @@
+att samla
+%%
+あつめる、あつめます
+%%
+att stoppa in
+%%
+いれる、いれます
+%%
+att visa
+%%
+みせる、みせます
+%%
+låt mig se
+%%
+ええと
+%%
+under dagen
+%%
+きょうじゅうに
+%%
+här om dagen
+%%
+このあいだ
+%%
+förlåt (intim)
+%%
+ごめん
+%%
+ursäkta mig
+%%
+しつれいします
+%%
+själv
+%%
+じぶんで
+%%
+andra saker
+%%
+ほかの
+%%
+gäst
+%%
+おきゃくさん
+%%
+varmvatten
+%%
+おゆ
+%%
+nyckel
+%%
+かぎ
+%%
+papper
+%%
+かみ
+%%
+lägst, sämst
+%%
+さいてい
+%%
+övertidsarbete
+%%
+ざんぎょう
+%%
+skillnad
+%%
+ちがい
+%%
+anställning
+%%
+しゅうしょく

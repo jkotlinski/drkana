@@ -1,0 +1,99 @@
+noon
+%%
+午（ゴ）
+%%
+A.M.
+%%
+午前（ゴゼン）
+%%
+P.M.; in the afternoon
+%%
+午後（ゴゴ）
+%%
+in the morning
+%%
+午前中（ゴゼンチュウ）
+%%
+after
+%%
+後（ゴ　あと　うし）
+%%
+after...
+%%
+〜の後（のあと）
+%%
+later
+%%
+後で（あとで）
+%%
+back; behind
+%%
+後ろ（うしろ）
+%%
+before; front
+%%
+前（まえ）
+%%
+name
+%%
+名前（なまえ）
+%%
+white
+%%
+白い（しろい）
+%%
+rain
+%%
+雨（あめ）
+%%
+to write
+%%
+書く（かく）
+%%
+friend
+%%
+友だち（ともだち）
+%%
+between
+%%
+間（あいだ）
+%%
+time
+%%
+時間（ジカン）
+%%
+two hours
+%%
+二時間（ニジカン）
+%%
+house
+%%
+家（いえ）
+%%
+to speak
+%%
+話す（はなす）
+%%
+talk; story
+%%
+話（はなし）
+%%
+telephone
+%%
+電話（デンワ）
+%%
+little
+%%
+少し（すこし）
+%%
+old (for things)
+%%
+古い（ふるい）
+%%
+to know
+%%
+知る（しる）
+%%
+to come
+%%
+来る（くる、きます、こない）

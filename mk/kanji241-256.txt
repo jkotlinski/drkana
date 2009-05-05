@@ -1,0 +1,67 @@
+spring
+%%
+春（はる）
+%%
+autumn
+%%
+秋（あき）
+%%
+winter
+%%
+冬（ふゆ）
+%%
+winter vacation
+%%
+冬休み（ふゆやすみ）
+%%
+flower
+%%
+花（はな）
+%%
+Mr./Ms...
+%%
+様（さま）
+%%
+uneasy; worried
+%%
+不安な（フアンな）
+%%
+older sister (kort)
+%%
+姉（あね）
+%%
+older sister (lång)
+%%
+お姉さん（おねえさん）
+%%
+older brother (kort)
+%%
+兄（あに）
+%%
+older brother (lång)
+%%
+お兄さん（おにいさん）
+%%
+Chinese character
+%%
+漢字（カンジ）
+%%
+to graduate
+%%
+卒業する（ソツギョウする）
+%%
+engineering
+%%
+工学（コウガク）
+%%
+research
+%%
+研究（ケンキュウ）
+%%
+question
+%%
+質問（シツモン）
+%%
+many
+%%
+多い（おおい）

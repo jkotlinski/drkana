@@ -1,0 +1,71 @@
+att säga (rep)
+%%
+おっしゃる
+%%
+att äta (rep)
+%%
+めしあげる
+%%
+att vila (rep)
+%%
+おやすみになる
+%%
+någon ger något till mig(resp)
+%%
+くださる
+%%
+att se (resp)
+%%
+ごらんになる
+%%
+att gå, komma, vara (resp)
+%%
+いらっしゃる
+%%
+pågående (resp)
+%%
+〜ていらっしゃる
+%%
+att göra (resp)
+%%
+なさる
+%%
+uttryck av tacksamhet
+%%
+おれい
+%%
+vördnadsuttryck
+%%
+けいご
+%%
+kultur
+%%
+ぶんか
+%%
+stationsvakt
+%%
+えきいん
+%%
+föräldrar
+%%
+おや
+%%
+skräp
+%%
+ごみ
+%%
+socker
+%%
+さとう
+%%
+stipendium
+%%
+しょうがくきん
+%%
+rekommendationsbrev
+%%
+すいせんじょう
+%%
+postgradual utbildning
+%%
+だいがくいん

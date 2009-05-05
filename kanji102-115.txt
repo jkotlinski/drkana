@@ -1,0 +1,79 @@
+to live
+%%
+住む（すむ）
+%%
+right
+%%
+正（ショウ）
+%%
+New Year
+%%
+お正月（おショウガツ）
+%%
+year
+%%
+年（とし）
+%%
+third-year student
+%%
+三年生（サンネンセイ）
+%%
+next year
+%%
+来年（ライネン）
+%%
+this year
+%%
+今年（ことし）
+%%
+to sell
+%%
+売る（うる）
+%%
+to buy
+%%
+買う（かう）
+%%
+town
+%%
+町（まち）
+%%
+long
+%%
+長い（ながい）
+%%
+way; road
+%%
+道（みち）
+%%
+snow
+%%
+雪（ゆき）
+%%
+to stand
+%%
+立つ（たつ）
+%%
+oneself
+%%
+自分（ジブン）
+%%
+night
+%%
+夜（よる）
+%%
+morning
+%%
+朝（あさ）
+%%
+this morning
+%%
+今朝（けさ）
+%%
+to hold
+%%
+持つ（もつ）
+%%
+to bring
+%%
+持ってくる（もってくる）

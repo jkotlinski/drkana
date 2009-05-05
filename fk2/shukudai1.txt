@@ -1,0 +1,51 @@
+att fotografera
+%%
+とる、とります
+%%
+att simma
+%%
+およぐ、およぎます
+%%
+att fråga
+%%
+きく、ききます
+%%
+att gå på/åka på
+%%
+のる、のります
+%%
+att göra (intim)
+%%
+やる、やります
+%%
+att gå ut
+%%
+でかける、でかけます
+%%
+stor
+%%
+おおきい
+%%
+läskig
+%%
+こわい
+%%
+kall
+%%
+さむい
+%%
+liten
+%%
+ちいさい
+%%
+gammal
+%%
+ふるい
+%%
+livlig
+%%
+にぎやかだ
+%%
+tyst, lugn
+%%
+しずかだ

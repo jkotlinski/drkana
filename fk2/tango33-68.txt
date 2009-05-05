@@ -1,0 +1,141 @@
+att stanna
+%%
+とまる、とまります
+%%
+att bli
+%%
+なる、なります
+%%
+att betala
+%%
+はらう、はらいます
+%%
+att bestämma
+%%
+きめる、きめます
+%%
+bäst, första plats i
+%%
+いちばん
+%%
+nu för tiden
+%%
+このごろ
+%%
+hur (gjorde)
+%%
+どうやって
+%%
+vilken/vilket
+%%
+どっち、どちら
+%%
+ungefär (mängd)
+%%
+くらい、ぐらい
+%%
+godis, sötsak
+%%
+おかし
+%%
+Nyårstid
+%%
+しょうがつ
+%%
+leksak
+%%
+おもちゃ
+%%
+utland
+%%がいこく
+%%
+den här terminen
+%%
+こんがっき
+%%
+VD
+%%
+しゃちょう
+%%
+lektion
+%%
+じゅぎょう
+%%
+konstmuseum
+%%
+びじゅつかん
+%%
+berg
+%%
+やま
+%%
+dröm
+%%
+ゆめ
+%%
+att ljuga
+%%
+うそをつく
+%%
+att bli hungrig
+%%
+おなかがすく 	  	  	  	 %%
+skolka
+%%
+サボる、サボります
+%%
+att ha husdjur
+%%
+かう、かいます
+%%
+att bli tom
+%%
+すく、すきます
+%%
+fotografera
+%%
+とる、とります
+%%
+att lära sig
+%%
+ならう、ならいます
+%%
+att arbeta
+%%
+はたらく、はたらきます
+%%
+att bli trött
+%%
+つかれる、つかれます
+%%
+att hoppa av
+%%
+やめる、やめます
+%%
+efter
+%%
+あと
+%%
+väldigt/förskräckligt mycket
+%%
+すごく
+%%
+och sedan
+%%
+そして
+%%
+det var länge sedan
+%%
+ひさしぶり
+%%
+mer
+%%
+もっと
+%%
+betydelse
+%%
+いみ
+%%
+mage
+%%
+おなか

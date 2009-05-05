@@ -1,0 +1,107 @@
+hand
+%%
+手（て）
+%%
+letter
+%%
+手紙（てかみ）
+%%
+singer
+%%
+歌手（カシュ）
+%%
+paper
+%%
+紙（かみ）
+%%
+favorite; to like
+%%
+好きな（すきな）
+%%
+nearby
+%%
+近く（ちかく）
+%%
+neighborhood
+%%
+近所（キンジョ）
+%%
+cheerful; bright
+%%
+明るい（あかるい）
+%%
+ill; sick
+%%
+病（ビョウ）
+%%
+hospital
+%%
+病院（ビョウイン）
+%%
+illness
+%%
+病気（ビョウキ）
+%%
+institution
+%%
+院（イン）
+%%
+to reflect
+%%
+映（エイ）
+%%
+movie
+%%
+映画（エイガ）
+%%
+picture
+%%
+画（ガ）
+%%
+to sing
+%%
+歌う（うたう）
+%%
+song
+%%
+歌（うた）
+%%
+city
+%%
+市（シ）
+%%
+Kawaguchi city
+%%
+川口市（かわぐちシ）
+%%
+place
+%%
+所（ところ、ジョ）
+%%
+various places
+%%
+いろいろな所（いろいろなところ）
+%%
+to make effort
+%%
+勉（ベン）
+%%
+to study
+%%
+勉強する（ベンキョウする）
+%%
+strong
+%%
+強い（つよい）
+%%
+to exist
+%%
+有（ユウ）
+%%
+famous
+%%
+有名な（ユウメイな）
+%%
+travel
+%%
+旅行（リョコウ）

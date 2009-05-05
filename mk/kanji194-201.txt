@@ -1,0 +1,35 @@
+child
+%%
+子供（こども）
+%%
+the world
+%%
+世界（セカイ）
+%%
+all
+%%
+全部（ゼンブ）
+%%
+room
+%%
+部屋（へや）
+%%
+(something) begins
+%%
+始まる（はじまる）
+%%
+to begin (something)
+%%
+始める（はじめる）
+%%
+every week
+%%
+毎週（マイシュウ）
+%%
+last week
+%%
+先週（センシュウ）
+%%
+...or more
+%%
+〜以上（イジョウ）

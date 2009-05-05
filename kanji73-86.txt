@@ -1,0 +1,87 @@
+member
+%%
+員（イン）
+%%
+office worker
+%%
+会社員（カイシャイン）
+%%
+new
+%%
+新しい（あたらしい）
+%%
+newspaper
+%%
+新聞（シンブン）
+%%
+to listen
+%%
+聞く（きく）
+%%
+to make
+%%
+作る（つくる）
+%%
+to serve
+%%
+仕（シ）
+%%
+job
+%%
+仕事（シごと）
+%%
+thing
+%%
+事（ごと）
+%%
+electricity
+%%
+電（デン）
+%%
+train
+%%
+電車（デンシャ）
+%%
+electricity (2)
+%%
+電気（デンキ）
+%%
+car
+%%
+車（くるま、シャ）
+%%
+to rest
+%%
+休む（やすむ）
+%%
+holiday
+%%
+休み（やすみ）
+%%
+to say
+%%
+言う（いう）
+%%
+to read
+%%
+読む（よむ）
+%%
+to think
+%%
+思う（おもう）
+%%
+next
+%%
+次（つぎ）
+%%
+what
+%%
+何（なに）
+%%
+what time
+%%
+何時（なんじ）
+%%
+how many people
+%%
+何人（なんニン）

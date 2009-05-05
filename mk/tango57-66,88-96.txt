@@ -1,0 +1,75 @@
+att göra (ödm)
+%%
+いたす
+%%
+att få (ödm)
+%%
+いただく
+%%
+att hälsa på (ödm)
+%%
+うかがう
+%%
+att finnas (iru) (ödm)
+%%
+おる
+%%
+att finnas (aru) (ödm)
+%%
+ござる
+%%
+att gå, komma (ödm)
+%%
+まいる
+%%
+att säga (ödm)
+%%
+もうす
+%%
+att ge (ödm)
+%%
+さしあげる
+%%
+jag ber om ursäkt
+%%
+もうしわけない
+%%
+om det går bra (resp)
+%%
+よろしかったら
+%%
+väg
+%%
+みち
+%%
+smutsig
+%%
+きたない
+%%
+att väcka
+%%
+おこす
+%%
+att bjuda något till någon
+%%
+おごる
+%%
+att bli besvärad
+%%
+こまる
+%%
+att ta ut, skicka ut
+%%
+だす
+%%
+att laga
+%%
+なおす
+%%
+att översätta
+%%
+やくす
+%%
+att skratta
+%%
+わらう

@@ -1,0 +1,303 @@
+skägg
+%%
+ひげ
+%%
+hemlighet
+%%
+ひみつ
+%%
+skilsmässa
+%%
+りこん
+%%
+föräldrar
+%%
+りょうしん
+%%
+avundssjuk
+%%
+うらやましい
+%%
+få, lite
+%%
+すくない
+%%
+stark
+%%
+つよい
+%%
+att välja
+%%
+えらぶ
+%%
+att koka vatten
+%%
+おゆをわかす
+%%
+att kamma håret
+%%
+かみをとかす
+%%
+att bli full av folk
+%%
+こむ
+%%
+att vinna lotteri
+%%
+あたる、あたります
+%%
+att ta av sig kläder
+%%
+ぬぐ
+%%
+att raka
+%%
+そる、そります
+%%
+att koka (te, kaffe)
+%%
+いれる、いれます
+%%
+att låsa
+%%
+かぎをかける、かぎをかけます
+%%
+att räcka till
+%%
+たりる、たります
+%%
+att bli van med
+%%
+なれる、なれます
+%%
+att sminka
+%%
+けしょうする
+%%
+jag undrar om ~
+%%
+〜かな（あ）
+%%
+ganska
+%%
+ずいぶん
+%%
+dessutom
+%%
+それに
+%%
+till exempel
+%%
+たとえば
+%%
+jämfört med ~
+%%
+〜にくらべて
+%%
+enligt ~
+%%
+〜によると
+%%
+till slut
+%%
+やっぱり
+%%
+soja
+%%
+しょうゆ
+%%
+ute
+%%
+そと
+%%
+hyra
+%%
+やちん
+%%
+kylskåp
+%%
+れいぞうこ
+%%
+ljus
+%%
+あかるい
+%%
+att må illa
+%%
+きぶんがわるい
+%%
+blyg
+%%
+はずかしい
+%%
+att öppna sig
+%%
+あく
+%%
+att be om förlåtelse
+%%
+あやまる、あやまります
+%%
+att trycka till
+%%
+おす
+%%
+att tappa
+%%
+おとす
+%%
+vattnet kokar
+%%
+おゆがわく
+%%
+att ramla
+%%
+ころぶ
+%%
+att förstöra
+%%
+こわす
+%%
+att blomma
+%%
+さく
+%%
+att bli räddad
+%%
+たすかる、たすかります
+%%
+att be
+%%
+たのむ
+%%
+att sättas på
+%%
+つく
+%%
+att smutsa
+%%
+よごす
+%%
+att falla
+%%
+おちる、おちます
+%%
+att fundera
+%%
+かんがえる、かんがえます
+%%
+att försvinna
+%%
+きえる、きえます
+%%
+att gå sönder
+%%
+こわれる、こわれます
+%%
+att bli smutsig
+%%
+よごれる、よごれます
+%%
+att beställa
+%%
+ちゅうもんする
+%%
+genast
+%%
+いますぐ
+%%
+tack vare dig
+%%
+おかげで
+%%
+jag går hem före dig
+%%
+おさきに
+%%
+du måste vara trött
+%%
+おつかれさま
+%%
+kanske så
+%%
+〜（ん）だろう
+%%
+vad ska jag göra
+%%
+どうしよう
+%%
+verkligen
+%%
+ほんとうに
+%%
+först av allt
+%%
+まず
+%%
+tills ~
+%%
+〜までに
+%%
+relation
+%%
+なか
+%%
+seriös
+%%
+まじめだ
+%%
+att komma (resp)
+%%
+いらっしゃる、いらっしゃいます
+%%
+att köra (ta) någon hem
+%%
+おくる、おくります
+%%
+att bli arg
+%%
+おこる、おこります
+%%
+något bli bestämt
+%%
+きまる、きまります
+%%
+att bli bekant
+%%
+しりあう
+%%
+att flytta
+%%
+ひっこす
+%%
+att ropa
+%%
+よぶ
+%%
+att stanna till
+%%
+よる、よります
+%%
+att bli sen
+%%
+おくれる、おくれます
+%%
+att sitta
+%%
+かける、かけます
+%%
+att klarna
+%%
+はれる、はれます
+%%
+att vara populär hos motsatta könet
+%%
+もてる、もてます
+%%
+att vara förbehållsam
+%%
+えんりょする
+%%
+att bjuda på mat
+%%
+ごちそうする
