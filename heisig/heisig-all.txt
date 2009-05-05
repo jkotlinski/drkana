@@ -1,0 +1,8167 @@
+one
+%%
+一 (1)
+%%
+two
+%%
+二 (2)
+%%
+three
+%%
+三 (3)
+%%
+four
+%%
+四 (4)
+%%
+five
+%%
+五 (5)
+%%
+six
+%%
+六 (6)
+%%
+seven
+%%
+七 (7)
+%%
+eight
+%%
+八 (8)
+%%
+nine
+%%
+九 (9)
+%%
+ten
+%%
+十 (10)
+%%
+mouth
+%%
+口 (11)
+%%
+day
+%%
+日 (12)
+%%
+month
+%%
+月 (13)
+%%
+rice field
+%%
+田 (14)
+%%
+eye
+%%
+目 (15)
+%%
+old
+%%
+古 (16)
+%%
+I
+%%
+吾 (17)
+%%
+risk
+%%
+冒 (18)
+%%
+companion
+%%
+朋 (19)
+%%
+bright
+%%
+明 (20)
+%%
+chant
+%%
+唱 (21)
+%%
+sparkle
+%%
+晶 (22)
+%%
+goods
+%%
+品 (23)
+%%
+spine
+%%
+呂 (24)
+%%
+prosperous
+%%
+昌 (25)
+%%
+early
+%%
+早 (26)
+%%
+rising sun
+%%
+旭 (27)
+%%
+generation
+%%
+世 (28)
+%%
+stomach
+%%
+胃 (29)
+%%
+nightbreak
+%%
+旦 (30)
+%%
+gall bladder
+%%
+胆 (31)
+%%
+span
+%%
+亘 (32)
+%%
+concave
+%%
+凹 (33)
+%%
+convex
+%%
+凸 (34)
+%%
+olden times
+%%
+旧 (35)
+%%
+oneself
+%%
+自 (36)
+%%
+white
+%%
+白 (37)
+%%
+hundred
+%%
+百 (38)
+%%
+in
+%%
+中 (39)
+%%
+thousand
+%%
+千 (40)
+%%
+tongue
+%%
+舌 (41)
+%%
+measuring box
+%%
+升 (42)
+%%
+rise up
+%%
+昇 (43)
+%%
+round
+%%
+丸 (44)
+%%
+measurement
+%%
+寸 (45)
+%%
+specialty
+%%
+専 (46)
+%%
+Dr.
+%%
+博 (47)
+%%
+fortune-telling
+%%
+占 (48)
+%%
+above
+%%
+上 (49)
+%%
+below
+%%
+下 (50)
+%%
+eminent
+%%
+卓 (51)
+%%
+morning
+%%
+朝 (52)
+%%
+only
+%%
+只 (53)
+%%
+shellfish
+%%
+貝 (54)
+%%
+upright
+%%
+貞 (55)
+%%
+employee
+%%
+員 (56)
+%%
+see
+%%
+見 (57)
+%%
+newborn babe
+%%
+児 (58)
+%%
+beginning
+%%
+元 (59)
+%%
+page
+%%
+頁 (60)
+%%
+stubborn
+%%
+頑 (61)
+%%
+mediocre
+%%
+凡 (62)
+%%
+defeat
+%%
+負 (63)
+%%
+ten thousand
+%%
+万 (64)
+%%
+phrase
+%%
+句 (65)
+%%
+texture
+%%
+肌 (66)
+%%
+decameron
+%%
+旬 (67)
+%%
+ladle
+%%
+勺 (68)
+%%
+bull's eye
+%%
+的 (69)
+%%
+neck
+%%
+首 (70)
+%%
+fishguts
+%%
+乙 (71)
+%%
+riot
+%%
+乱 (72)
+%%
+straightaway
+%%
+直 (73)
+%%
+tool
+%%
+具 (74)
+%%
+true
+%%
+真 (75)
+%%
+craft
+%%
+工 (76)
+%%
+left
+%%
+左 (77)
+%%
+right
+%%
+右 (78)
+%%
+possess
+%%
+有 (79)
+%%
+bribe
+%%
+賄 (80)
+%%
+tribute
+%%
+貢 (81)
+%%
+paragraph
+%%
+項 (82)
+%%
+sword
+%%
+刀 (83)
+%%
+blade
+%%
+刃 (84)
+%%
+cut
+%%
+切 (85)
+%%
+seduce
+%%
+召 (86)
+%%
+shining
+%%
+昭 (87)
+%%
+rule
+%%
+則 (88)
+%%
+vice-
+%%
+副 (89)
+%%
+separate
+%%
+別 (90)
+%%
+street
+%%
+丁 (91)
+%%
+village
+%%
+町 (92)
+%%
+can
+%%
+可 (93)
+%%
+place on the head
+%%
+頂 (94)
+%%
+child
+%%
+子 (95)
+%%
+cavity
+%%
+孔 (96)
+%%
+complete
+%%
+了 (97)
+%%
+woman
+%%
+女 (98)
+%%
+fond
+%%
+好 (99)
+%%
+likeness
+%%
+如 (100)
+%%
+mama
+%%
+母 (101)
+%%
+pierce
+%%
+貫 (102)
+%%
+elder brother
+%%
+兄 (103)
+%%
+overcome
+%%
+克 (104)
+%%
+little
+%%
+小 (105)
+%%
+few
+%%
+少 (106)
+%%
+large
+%%
+大 (107)
+%%
+many
+%%
+多 (108)
+%%
+evening
+%%
+夕 (109)
+%%
+eventide
+%%
+汐 (110)
+%%
+outside
+%%
+外 (111)
+%%
+name
+%%
+名 (112)
+%%
+stone
+%%
+石 (113)
+%%
+resemblance
+%%
+肖 (114)
+%%
+nitrate
+%%
+硝 (115)
+%%
+smash
+%%
+砕 (116)
+%%
+sand
+%%
+砂 (117)
+%%
+plane
+%%
+削 (118)
+%%
+ray
+%%
+光 (119)
+%%
+plump
+%%
+太 (120)
+%%
+utensil
+%%
+器 (121)
+%%
+stinking
+%%
+臭 (122)
+%%
+exquisite
+%%
+妙 (123)
+%%
+focus
+%%
+省 (124)
+%%
+thick
+%%
+厚 (125)
+%%
+strange
+%%
+奇 (126)
+%%
+stream
+%%
+川 (127)
+%%
+state
+%%
+州 (128)
+%%
+obey
+%%
+順 (129)
+%%
+water
+%%
+水 (130)
+%%
+icicle
+%%
+氷 (131)
+%%
+eternity
+%%
+永 (132)
+%%
+spring
+%%
+泉 (133)
+%%
+meadow
+%%
+原 (134)
+%%
+petition
+%%
+願 (135)
+%%
+swim
+%%
+泳 (136)
+%%
+marsh
+%%
+沼 (137)
+%%
+open sea
+%%
+沖 (138)
+%%
+creek
+%%
+江 (139)
+%%
+soup
+%%
+汁 (140)
+%%
+tide
+%%
+潮 (141)
+%%
+source
+%%
+源 (142)
+%%
+lively
+%%
+活 (143)
+%%
+extinguish
+%%
+消 (144)
+%%
+but of course
+%%
+況 (145)
+%%
+river
+%%
+河 (146)
+%%
+overnight
+%%
+泊 (147)
+%%
+lake
+%%
+湖 (148)
+%%
+fathom
+%%
+測 (149)
+%%
+soil
+%%
+土 (150)
+%%
+spit
+%%
+吐 (151)
+%%
+pressure
+%%
+圧 (152)
+%%
+cape
+%%
+埼 (153)
+%%
+hedge
+%%
+垣 (154)
+%%
+square jewel
+%%
+圭 (155)
+%%
+seal
+%%
+封 (156)
+%%
+horizon
+%%
+涯 (157)
+%%
+Buddhist temple
+%%
+寺 (158)
+%%
+time
+%%
+時 (159)
+%%
+level
+%%
+均 (160)
+%%
+fire
+%%
+火 (161)
+%%
+inflammation
+%%
+炎 (162)
+%%
+anxiety
+%%
+煩 (163)
+%%
+thin
+%%
+淡 (164)
+%%
+lamp
+%%
+灯 (165)
+%%
+farm
+%%
+畑 (166)
+%%
+disaster
+%%
+災 (167)
+%%
+ashes
+%%
+灰 (168)
+%%
+spot
+%%
+点 (169)
+%%
+illuminate
+%%
+照 (170)
+%%
+fish
+%%
+魚 (171)
+%%
+fishing
+%%
+漁 (172)
+%%
+ri
+%%
+里 (173)
+%%
+black
+%%
+黒 (174)
+%%
+black ink
+%%
+墨 (175)
+%%
+carp
+%%
+鯉 (176)
+%%
+quantity
+%%
+量 (177)
+%%
+rin
+%%
+厘 (178)
+%%
+bury
+%%
+埋 (179)
+%%
+same
+%%
+同 (180)
+%%
+den
+%%
+洞 (181)
+%%
+trunk
+%%
+胴 (182)
+%%
+yonder
+%%
+向 (183)
+%%
+esteem
+%%
+尚 (184)
+%%
+character
+%%
+字 (185)
+%%
+guard
+%%
+守 (186)
+%%
+perfect
+%%
+完 (187)
+%%
+proclaim
+%%
+宣 (188)
+%%
+wee hours
+%%
+宵 (189)
+%%
+relax
+%%
+安 (190)
+%%
+banquet
+%%
+宴 (191)
+%%
+draw near
+%%
+寄 (192)
+%%
+wealth
+%%
+富 (193)
+%%
+savings
+%%
+貯 (194)
+%%
+tree
+%%
+木 (195)
+%%
+grove
+%%
+林 (196)
+%%
+forest
+%%
+森 (197)
+%%
+Japanese Judas-tree
+%%
+桂 (198)
+%%
+oak
+%%
+柏 (199)
+%%
+frame
+%%
+枠 (200)
+%%
+treetops
+%%
+梢 (201)
+%%
+shelf
+%%
+棚 (202)
+%%
+apricot
+%%
+杏 (203)
+%%
+paulownia
+%%
+桐 (204)
+%%
+plant
+%%
+植 (205)
+%%
+wither
+%%
+枯 (206)
+%%
+crude
+%%
+朴 (207)
+%%
+town
+%%
+村 (208)
+%%
+inter-
+%%
+相 (209)
+%%
+desk
+%%
+机 (210)
+%%
+book
+%%
+本 (211)
+%%
+tag
+%%
+札 (212)
+%%
+calendar
+%%
+暦 (213)
+%%
+plan
+%%
+案 (214)
+%%
+parch
+%%
+燥 (215)
+%%
+not yet
+%%
+未 (216)
+%%
+extremity
+%%
+末 (217)
+%%
+splash
+%%
+沫 (218)
+%%
+flavor
+%%
+味 (219)
+%%
+younger sister
+%%
+妹 (220)
+%%
+vermilion
+%%
+朱 (221)
+%%
+stocks
+%%
+株 (222)
+%%
+young
+%%
+若 (223)
+%%
+grass
+%%
+草 (224)
+%%
+suffering
+%%
+苦 (225)
+%%
+tolerant
+%%
+寛 (226)
+%%
+dilute
+%%
+薄 (227)
+%%
+leaf
+%%
+葉 (228)
+%%
+imitation
+%%
+模 (229)
+%%
+vague
+%%
+漠 (230)
+%%
+grave
+%%
+墓 (231)
+%%
+livelihood
+%%
+暮 (232)
+%%
+membrane
+%%
+膜 (233)
+%%
+seedling
+%%
+苗 (234)
+%%
+portent
+%%
+兆 (235)
+%%
+peach tree
+%%
+桃 (236)
+%%
+stare
+%%
+眺 (237)
+%%
+dog
+%%
+犬 (238)
+%%
+status quo
+%%
+状 (239)
+%%
+silence
+%%
+黙 (240)
+%%
+sort of thing
+%%
+然 (241)
+%%
+reed
+%%
+荻 (242)
+%%
+hunt
+%%
+狩 (243)
+%%
+cat
+%%
+猫 (244)
+%%
+cow
+%%
+牛 (245)
+%%
+special
+%%
+特 (246)
+%%
+revelation
+%%
+告 (247)
+%%
+before
+%%
+先 (248)
+%%
+wash
+%%
+洗 (249)
+%%
+jammed in
+%%
+介 (250)
+%%
+world
+%%
+界 (251)
+%%
+tea
+%%
+茶 (252)
+%%
+fit
+%%
+合 (253)
+%%
+pagoda
+%%
+塔 (254)
+%%
+king
+%%
+王 (255)
+%%
+jewel
+%%
+玉 (256)
+%%
+treasure
+%%
+宝 (257)
+%%
+pearl
+%%
+珠 (258)
+%%
+present
+%%
+現 (259)
+%%
+lunatic
+%%
+狂 (260)
+%%
+emperor
+%%
+皇 (261)
+%%
+display
+%%
+呈 (262)
+%%
+whole
+%%
+全 (263)
+%%
+plug
+%%
+栓 (264)
+%%
+logic
+%%
+理 (265)
+%%
+lord
+%%
+主 (266)
+%%
+pour
+%%
+注 (267)
+%%
+pillar
+%%
+柱 (268)
+%%
+gold
+%%
+金 (269)
+%%
+pig-iron
+%%
+銑 (270)
+%%
+bowl
+%%
+鉢 (271)
+%%
+copper
+%%
+銅 (272)
+%%
+angling
+%%
+釣 (273)
+%%
+needle
+%%
+針 (274)
+%%
+inscription
+%%
+銘 (275)
+%%
+tranquilize
+%%
+鎮 (276)
+%%
+road-way
+%%
+道 (277)
+%%
+guidance
+%%
+導 (278)
+%%
+crossing
+%%
+辻 (279)
+%%
+swift
+%%
+迅 (280)
+%%
+create
+%%
+造 (281)
+%%
+urge
+%%
+迫 (282)
+%%
+escape
+%%
+逃 (283)
+%%
+environs
+%%
+辺 (284)
+%%
+patrol
+%%
+巡 (285)
+%%
+car
+%%
+車 (286)
+%%
+take along
+%%
+連 (287)
+%%
+rut
+%%
+軌 (288)
+%%
+transport
+%%
+輸 (289)
+%%
+in front
+%%
+前 (290)
+%%
+each
+%%
+各 (291)
+%%
+status
+%%
+格 (292)
+%%
+abbreviation
+%%
+略 (293)
+%%
+guest
+%%
+客 (294)
+%%
+forehead
+%%
+額 (295)
+%%
+summer
+%%
+夏 (296)
+%%
+dispose
+%%
+処 (297)
+%%
+twig
+%%
+条 (298)
+%%
+fall
+%%
+落 (299)
+%%
+superfluous
+%%
+冗 (300)
+%%
+army
+%%
+軍 (301)
+%%
+radiance
+%%
+輝 (302)
+%%
+carry
+%%
+運 (303)
+%%
+crown
+%%
+冠 (304)
+%%
+dream
+%%
+夢 (305)
+%%
+pit
+%%
+坑 (306)
+%%
+tall
+%%
+高 (307)
+%%
+receive
+%%
+享 (308)
+%%
+cram school
+%%
+塾 (309)
+%%
+mellow
+%%
+熟 (310)
+%%
+pavilion
+%%
+亭 (311)
+%%
+capital
+%%
+京 (312)
+%%
+refreshing
+%%
+涼 (313)
+%%
+scenery
+%%
+景 (314)
+%%
+whale
+%%
+鯨 (315)
+%%
+cottage
+%%
+舎 (316)
+%%
+circumference
+%%
+周 (317)
+%%
+week
+%%
+週 (318)
+%%
+gentleman
+%%
+士 (319)
+%%
+good luck
+%%
+吉 (320)
+%%
+robust
+%%
+壮 (321)
+%%
+villa
+%%
+荘 (322)
+%%
+sell
+%%
+売 (323)
+%%
+study
+%%
+学 (324)
+%%
+memorize
+%%
+覚 (325)
+%%
+flourish
+%%
+栄 (326)
+%%
+write
+%%
+書 (327)
+%%
+haven
+%%
+津 (328)
+%%
+breed
+%%
+牧 (329)
+%%
+aggression
+%%
+攻 (330)
+%%
+failure
+%%
+敗 (331)
+%%
+sheet of...
+%%
+枚 (332)
+%%
+happenstance
+%%
+故 (333)
+%%
+awe
+%%
+敬 (334)
+%%
+say
+%%
+言 (335)
+%%
+admonish
+%%
+警 (336)
+%%
+plot
+%%
+計 (337)
+%%
+prison
+%%
+獄 (338)
+%%
+revise
+%%
+訂 (339)
+%%
+chastise
+%%
+討 (340)
+%%
+instruction
+%%
+訓 (341)
+%%
+imperial edict
+%%
+詔 (342)
+%%
+packed
+%%
+詰 (343)
+%%
+tale
+%%
+話 (344)
+%%
+recitation
+%%
+詠 (345)
+%%
+poem
+%%
+詩 (346)
+%%
+word
+%%
+語 (347)
+%%
+read
+%%
+読 (348)
+%%
+tune
+%%
+調 (349)
+%%
+discuss
+%%
+談 (350)
+%%
+consent
+%%
+諾 (351)
+%%
+rebuke
+%%
+諭 (352)
+%%
+style
+%%
+式 (353)
+%%
+test
+%%
+試 (354)
+%%
+II
+%%
+弐 (355)
+%%
+range
+%%
+域 (356)
+%%
+burglar
+%%
+賊 (357)
+%%
+plantation
+%%
+栽 (358)
+%%
+load
+%%
+載 (359)
+%%
+overgrown
+%%
+茂 (360)
+%%
+turn into
+%%
+成 (361)
+%%
+castle
+%%
+城 (362)
+%%
+sincerity
+%%
+誠 (363)
+%%
+intimidate
+%%
+威 (364)
+%%
+destroy
+%%
+滅 (365)
+%%
+dwindle
+%%
+減 (366)
+%%
+scaffold
+%%
+桟 (367)
+%%
+coin
+%%
+銭 (368)
+%%
+shallow
+%%
+浅 (369)
+%%
+stop
+%%
+止 (370)
+%%
+walk
+%%
+歩 (371)
+%%
+ford
+%%
+渉 (372)
+%%
+repeatedly
+%%
+頻 (373)
+%%
+agreement
+%%
+肯 (374)
+%%
+undertake
+%%
+企 (375)
+%%
+curriculum
+%%
+歴 (376)
+%%
+warrior
+%%
+武 (377)
+%%
+levy
+%%
+賦 (378)
+%%
+correct
+%%
+正 (379)
+%%
+evidence
+%%
+証 (380)
+%%
+politics
+%%
+政 (381)
+%%
+determine
+%%
+定 (382)
+%%
+lock
+%%
+錠 (383)
+%%
+run
+%%
+走 (384)
+%%
+transcend
+%%
+超 (385)
+%%
+proceed
+%%
+赴 (386)
+%%
+surpass
+%%
+越 (387)
+%%
+just so
+%%
+是 (388)
+%%
+topic
+%%
+題 (389)
+%%
+dike
+%%
+堤 (390)
+%%
+build
+%%
+建 (391)
+%%
+prolong
+%%
+延 (392)
+%%
+nativity
+%%
+誕 (393)
+%%
+cornerstone
+%%
+礎 (394)
+%%
+bridegroom
+%%
+婿 (395)
+%%
+garment
+%%
+衣 (396)
+%%
+tailor
+%%
+裁 (397)
+%%
+attire
+%%
+装 (398)
+%%
+back
+%%
+裏 (399)
+%%
+demolition
+%%
+壊 (400)
+%%
+pathetic
+%%
+哀 (401)
+%%
+distant
+%%
+遠 (402)
+%%
+monkey
+%%
+猿 (403)
+%%
+first time
+%%
+初 (404)
+%%
+linen
+%%
+布 (405)
+%%
+sail
+%%
+帆 (406)
+%%
+hanging scroll
+%%
+幅 (407)
+%%
+cap
+%%
+帽 (408)
+%%
+curtain
+%%
+幕 (409)
+%%
+canopy
+%%
+幌 (410)
+%%
+brocade
+%%
+錦 (411)
+%%
+market
+%%
+市 (412)
+%%
+elder sister
+%%
+姉 (413)
+%%
+lungs
+%%
+肺 (414)
+%%
+sash
+%%
+帯 (415)
+%%
+stagnate
+%%
+滞 (416)
+%%
+thorn
+%%
+刺 (417)
+%%
+system
+%%
+制 (418)
+%%
+made in...
+%%
+製 (419)
+%%
+revolve
+%%
+転 (420)
+%%
+technique
+%%
+芸 (421)
+%%
+rain
+%%
+雨 (422)
+%%
+cloud
+%%
+雲 (423)
+%%
+cloudy weather
+%%
+曇 (424)
+%%
+thunder
+%%
+雷 (425)
+%%
+frost
+%%
+霜 (426)
+%%
+winter
+%%
+冬 (427)
+%%
+heavens
+%%
+天 (428)
+%%
+bridge
+%%
+橋 (429)
+%%
+attractive
+%%
+嬌 (430)
+%%
+stand up
+%%
+立 (431)
+%%
+cry
+%%
+泣 (432)
+%%
+badge
+%%
+章 (433)
+%%
+vie
+%%
+競 (434)
+%%
+sovereign
+%%
+帝 (435)
+%%
+juvenile
+%%
+童 (436)
+%%
+pupil
+%%
+瞳 (437)
+%%
+bell
+%%
+鐘 (438)
+%%
+make a deal
+%%
+商 (439)
+%%
+legitimate wife
+%%
+嫡 (440)
+%%
+suitable
+%%
+適 (441)
+%%
+drip
+%%
+滴 (442)
+%%
+enemy
+%%
+敵 (443)
+%%
+spoon
+%%
+匕 (444)
+%%
+north
+%%
+北 (445)
+%%
+stature
+%%
+背 (446)
+%%
+compare
+%%
+比 (447)
+%%
+descendants
+%%
+昆 (448)
+%%
+all
+%%
+皆 (449)
+%%
+mix
+%%
+混 (450)
+%%
+thirst
+%%
+渇 (451)
+%%
+audience
+%%
+謁 (452)
+%%
+brown
+%%
+褐 (453)
+%%
+hoarse
+%%
+喝 (454)
+%%
+delicious
+%%
+旨 (455)
+%%
+fat
+%%
+脂 (456)
+%%
+I (one)
+%%
+壱 (457)
+%%
+every
+%%
+毎 (458)
+%%
+cleverness
+%%
+敏 (459)
+%%
+plum
+%%
+梅 (460)
+%%
+sea
+%%
+海 (461)
+%%
+beg
+%%
+乞 (462)
+%%
+drought
+%%
+乾 (463)
+%%
+abdomen
+%%
+腹 (464)
+%%
+duplicate
+%%
+複 (465)
+%%
+lack
+%%
+欠 (466)
+%%
+blow
+%%
+吹 (467)
+%%
+cook
+%%
+炊 (468)
+%%
+song
+%%
+歌 (469)
+%%
+soft
+%%
+軟 (470)
+%%
+next
+%%
+次 (471)
+%%
+briar
+%%
+茨 (472)
+%%
+assets
+%%
+資 (473)
+%%
+figure
+%%
+姿 (474)
+%%
+consult with
+%%
+諮 (475)
+%%
+compensation
+%%
+賠 (476)
+%%
+cultivate
+%%
+培 (477)
+%%
+divide
+%%
+剖 (478)
+%%
+sound
+%%
+音 (479)
+%%
+darkness
+%%
+暗 (480)
+%%
+rhyme
+%%
+韻 (481)
+%%
+discriminating
+%%
+識 (482)
+%%
+mirror
+%%
+鏡 (483)
+%%
+boundary
+%%
+境 (484)
+%%
+deceased
+%%
+亡 (485)
+%%
+blind
+%%
+盲 (486)
+%%
+delusion
+%%
+妄 (487)
+%%
+laid waste
+%%
+荒 (488)
+%%
+ambition
+%%
+望 (489)
+%%
+direction
+%%
+方 (490)
+%%
+disturb
+%%
+妨 (491)
+%%
+boy
+%%
+坊 (492)
+%%
+perfume
+%%
+芳 (493)
+%%
+obese
+%%
+肪 (494)
+%%
+call on
+%%
+訪 (495)
+%%
+set free
+%%
+放 (496)
+%%
+violent
+%%
+激 (497)
+%%
+undress
+%%
+脱 (498)
+%%
+rumor
+%%
+説 (499)
+%%
+pointed
+%%
+鋭 (500)
+%%
+formerly
+%%
+曽 (501)
+%%
+increase
+%%
+増 (502)
+%%
+presents
+%%
+贈 (503)
+%%
+east
+%%
+東 (504)
+%%
+ridgepole
+%%
+棟 (505)
+%%
+frozen
+%%
+凍 (506)
+%%
+pregnancy
+%%
+妊 (507)
+%%
+courts
+%%
+廷 (508)
+%%
+dye
+%%
+染 (509)
+%%
+burn
+%%
+燃 (510)
+%%
+V.I.P.
+%%
+賓 (511)
+%%
+year-end
+%%
+歳 (512)
+%%
+prefecture
+%%
+県 (513)
+%%
+horse chestnut
+%%
+栃 (514)
+%%
+ground
+%%
+地 (515)
+%%
+pond
+%%
+池 (516)
+%%
+insect
+%%
+虫 (517)
+%%
+lightning-bug
+%%
+蛍 (518)
+%%
+snake
+%%
+蛇 (519)
+%%
+rainbow
+%%
+虹 (520)
+%%
+butterfly
+%%
+蝶 (521)
+%%
+single
+%%
+独 (522)
+%%
+silkworm
+%%
+蚕 (523)
+%%
+wind
+%%
+風 (524)
+%%
+self
+%%
+己 (525)
+%%
+rouse
+%%
+起 (526)
+%%
+queen
+%%
+妃 (527)
+%%
+reformation
+%%
+改 (528)
+%%
+scribe
+%%
+記 (529)
+%%
+wrap
+%%
+包 (530)
+%%
+placenta
+%%
+胞 (531)
+%%
+cannon
+%%
+砲 (532)
+%%
+bubbles
+%%
+泡 (533)
+%%
+tortoise
+%%
+亀 (534)
+%%
+electricity
+%%
+電 (535)
+%%
+dragon
+%%
+竜 (536)
+%%
+waterfall
+%%
+滝 (537)
+%%
+pork
+%%
+豚 (538)
+%%
+pursue
+%%
+逐 (539)
+%%
+consummate
+%%
+遂 (540)
+%%
+house
+%%
+家 (541)
+%%
+marry into
+%%
+嫁 (542)
+%%
+overpowering
+%%
+豪 (543)
+%%
+intestines
+%%
+腸 (544)
+%%
+location
+%%
+場 (545)
+%%
+hot water
+%%
+湯 (546)
+%%
+sheep
+%%
+羊 (547)
+%%
+beauty
+%%
+美 (548)
+%%
+ocean
+%%
+洋 (549)
+%%
+detailed
+%%
+詳 (550)
+%%
+fresh
+%%
+鮮 (551)
+%%
+accomplished
+%%
+達 (552)
+%%
+envious
+%%
+羨 (553)
+%%
+distinction
+%%
+差 (554)
+%%
+don
+%%
+着 (555)
+%%
+solely
+%%
+唯 (556)
+%%
+char
+%%
+焦 (557)
+%%
+reef
+%%
+礁 (558)
+%%
+gather
+%%
+集 (559)
+%%
+quasi-
+%%
+准 (560)
+%%
+advance
+%%
+進 (561)
+%%
+miscellaneous
+%%
+雑 (562)
+%%
+feminine
+%%
+雌 (563)
+%%
+semi-
+%%
+準 (564)
+%%
+stirred up
+%%
+奮 (565)
+%%
+rob
+%%
+奪 (566)
+%%
+assurance
+%%
+確 (567)
+%%
+noon
+%%
+午 (568)
+%%
+permit
+%%
+許 (569)
+%%
+delight
+%%
+歓 (570)
+%%
+authority
+%%
+権 (571)
+%%
+outlook
+%%
+観 (572)
+%%
+feathers
+%%
+羽 (573)
+%%
+learn
+%%
+習 (574)
+%%
+the following
+%%
+翌 (575)
+%%
+weekday
+%%
+曜 (576)
+%%
+laundry
+%%
+濯 (577)
+%%
+sayeth
+%%
+曰 (578)
+%%
+quandary
+%%
+困 (579)
+%%
+harden
+%%
+固 (580)
+%%
+country
+%%
+国 (581)
+%%
+group
+%%
+団 (582)
+%%
+cause
+%%
+因 (583)
+%%
+matrimony
+%%
+姻 (584)
+%%
+park
+%%
+園 (585)
+%%
+-times
+%%
+回 (586)
+%%
+podium
+%%
+壇 (587)
+%%
+store
+%%
+店 (588)
+%%
+warehouse
+%%
+庫 (589)
+%%
+courtyard
+%%
+庭 (590)
+%%
+government office
+%%
+庁 (591)
+%%
+bed
+%%
+床 (592)
+%%
+hemp
+%%
+麻 (593)
+%%
+grind
+%%
+磨 (594)
+%%
+heart
+%%
+心 (595)
+%%
+forget
+%%
+忘 (596)
+%%
+endure
+%%
+忍 (597)
+%%
+acknowledge
+%%
+認 (598)
+%%
+mourning
+%%
+忌 (599)
+%%
+intention
+%%
+志 (600)
+%%
+document
+%%
+誌 (601)
+%%
+loyalty
+%%
+忠 (602)
+%%
+shish kebab
+%%
+串 (603)
+%%
+afflicted
+%%
+患 (604)
+%%
+think
+%%
+思 (605)
+%%
+grace
+%%
+恩 (606)
+%%
+apply
+%%
+応 (607)
+%%
+idea
+%%
+意 (608)
+%%
+concept
+%%
+想 (609)
+%%
+breath
+%%
+息 (610)
+%%
+recess
+%%
+憩 (611)
+%%
+favor
+%%
+恵 (612)
+%%
+fear
+%%
+恐 (613)
+%%
+beguile
+%%
+惑 (614)
+%%
+emotion
+%%
+感 (615)
+%%
+melancholy
+%%
+憂 (616)
+%%
+widow
+%%
+寡 (617)
+%%
+busy
+%%
+忙 (618)
+%%
+ecstasy
+%%
+悦 (619)
+%%
+constancy
+%%
+恒 (620)
+%%
+lament
+%%
+悼 (621)
+%%
+enlightenment
+%%
+悟 (622)
+%%
+dreadful
+%%
+怖 (623)
+%%
+disconcerted
+%%
+慌 (624)
+%%
+repent
+%%
+悔 (625)
+%%
+hate
+%%
+憎 (626)
+%%
+accustomed
+%%
+慣 (627)
+%%
+pleasure
+%%
+愉 (628)
+%%
+lazy
+%%
+惰 (629)
+%%
+humility
+%%
+慎 (630)
+%%
+remorse
+%%
+憾 (631)
+%%
+recollection
+%%
+憶 (632)
+%%
+pining
+%%
+慕 (633)
+%%
+annexed
+%%
+添 (634)
+%%
+invariably
+%%
+必 (635)
+%%
+ooze
+%%
+泌 (636)
+%%
+hand
+%%
+手 (637)
+%%
+watch over
+%%
+看 (638)
+%%
+chafe
+%%
+摩 (639)
+%%
+ego
+%%
+我 (640)
+%%
+righteousness
+%%
+義 (641)
+%%
+deliberation
+%%
+議 (642)
+%%
+sacrifice
+%%
+犠 (643)
+%%
+rub
+%%
+抹 (644)
+%%
+embrace
+%%
+抱 (645)
+%%
+board
+%%
+搭 (646)
+%%
+extract
+%%
+抄 (647)
+%%
+confront
+%%
+抗 (648)
+%%
+criticism
+%%
+批 (649)
+%%
+beckon
+%%
+招 (650)
+%%
+clear (the land)
+%%
+拓 (651)
+%%
+clap
+%%
+拍 (652)
+%%
+strike
+%%
+打 (653)
+%%
+arrest
+%%
+拘 (654)
+%%
+discard
+%%
+捨 (655)
+%%
+kidnap
+%%
+拐 (656)
+%%
+pinch
+%%
+摘 (657)
+%%
+challenge
+%%
+挑 (658)
+%%
+finger
+%%
+指 (659)
+%%
+hold
+%%
+持 (660)
+%%
+fasten
+%%
+括 (661)
+%%
+brandish
+%%
+揮 (662)
+%%
+conjecture
+%%
+推 (663)
+%%
+hoist
+%%
+揚 (664)
+%%
+propose
+%%
+提 (665)
+%%
+damage
+%%
+損 (666)
+%%
+pick up
+%%
+拾 (667)
+%%
+shouldering
+%%
+担 (668)
+%%
+foothold
+%%
+拠 (669)
+%%
+sketch
+%%
+描 (670)
+%%
+maneuver
+%%
+操 (671)
+%%
+touch
+%%
+接 (672)
+%%
+put up (a notice)
+%%
+掲 (673)
+%%
+hang
+%%
+掛 (674)
+%%
+polish
+%%
+研 (675)
+%%
+commandment
+%%
+戒 (676)
+%%
+contraption
+%%
+械 (677)
+%%
+nose
+%%
+鼻 (678)
+%%
+punish
+%%
+刑 (679)
+%%
+mould
+%%
+型 (680)
+%%
+genius
+%%
+才 (681)
+%%
+property
+%%
+財 (682)
+%%
+lumber
+%%
+材 (683)
+%%
+suppose
+%%
+存 (684)
+%%
+exist
+%%
+在 (685)
+%%
+from
+%%
+乃 (686)
+%%
+portable
+%%
+携 (687)
+%%
+reach out
+%%
+及 (688)
+%%
+suck
+%%
+吸 (689)
+%%
+handle
+%%
+扱 (690)
+%%
+length
+%%
+丈 (691)
+%%
+history
+%%
+史 (692)
+%%
+officer
+%%
+吏 (693)
+%%
+grow late
+%%
+更 (694)
+%%
+stiff
+%%
+硬 (695)
+%%
+or again
+%%
+又 (696)
+%%
+pair
+%%
+双 (697)
+%%
+mulberry
+%%
+桑 (698)
+%%
+vessels
+%%
+隻 (699)
+%%
+safeguard
+%%
+護 (700)
+%%
+seize
+%%
+獲 (701)
+%%
+guy
+%%
+奴 (702)
+%%
+angry
+%%
+怒 (703)
+%%
+friend
+%%
+友 (704)
+%%
+slip out
+%%
+抜 (705)
+%%
+throw
+%%
+投 (706)
+%%
+drown
+%%
+没 (707)
+%%
+establishment
+%%
+設 (708)
+%%
+beat
+%%
+撃 (709)
+%%
+husk
+%%
+殻 (710)
+%%
+branch
+%%
+支 (711)
+%%
+skill
+%%
+技 (712)
+%%
+bough
+%%
+枝 (713)
+%%
+limb
+%%
+肢 (714)
+%%
+stalk
+%%
+茎 (715)
+%%
+suspicious
+%%
+怪 (716)
+%%
+lightly
+%%
+軽 (717)
+%%
+uncle
+%%
+叔 (718)
+%%
+coach
+%%
+督 (719)
+%%
+loneliness
+%%
+寂 (720)
+%%
+graceful
+%%
+淑 (721)
+%%
+anti-
+%%
+反 (722)
+%%
+slope
+%%
+坂 (723)
+%%
+plank
+%%
+板 (724)
+%%
+return
+%%
+返 (725)
+%%
+marketing
+%%
+販 (726)
+%%
+claw
+%%
+爪 (727)
+%%
+gentle
+%%
+妥 (728)
+%%
+milk
+%%
+乳 (729)
+%%
+floating
+%%
+浮 (730)
+%%
+leader
+%%
+将 (731)
+%%
+exhort
+%%
+奨 (732)
+%%
+pick
+%%
+採 (733)
+%%
+vegetable
+%%
+菜 (734)
+%%
+accept
+%%
+受 (735)
+%%
+impart
+%%
+授 (736)
+%%
+love
+%%
+愛 (737)
+%%
+pay
+%%
+払 (738)
+%%
+wide
+%%
+広 (739)
+%%
+broaden
+%%
+拡 (740)
+%%
+mineral
+%%
+鉱 (741)
+%%
+valve
+%%
+弁 (742)
+%%
+masculine
+%%
+雄 (743)
+%%
+pedestal
+%%
+台 (744)
+%%
+neglect
+%%
+怠 (745)
+%%
+reign
+%%
+治 (746)
+%%
+commence
+%%
+始 (747)
+%%
+womb
+%%
+胎 (748)
+%%
+window
+%%
+窓 (749)
+%%
+gone
+%%
+去 (750)
+%%
+method
+%%
+法 (751)
+%%
+meeting
+%%
+会 (752)
+%%
+climax
+%%
+至 (753)
+%%
+room
+%%
+室 (754)
+%%
+arrival
+%%
+到 (755)
+%%
+doth
+%%
+致 (756)
+%%
+mutually
+%%
+互 (757)
+%%
+abandon
+%%
+棄 (758)
+%%
+bring up
+%%
+育 (759)
+%%
+remove
+%%
+撤 (760)
+%%
+allot
+%%
+充 (761)
+%%
+gun
+%%
+銃 (762)
+%%
+sulphur
+%%
+硫 (763)
+%%
+current
+%%
+流 (764)
+%%
+license
+%%
+允 (765)
+%%
+tempt
+%%
+唆 (766)
+%%
+exit
+%%
+出 (767)
+%%
+mountain
+%%
+山 (768)
+%%
+bungling
+%%
+拙 (769)
+%%
+boulder
+%%
+岩 (770)
+%%
+charcoal
+%%
+炭 (771)
+%%
+branch off
+%%
+岐 (772)
+%%
+mountain peak
+%%
+峠 (773)
+%%
+crumble
+%%
+崩 (774)
+%%
+secrecy
+%%
+密 (775)
+%%
+honey
+%%
+蜜 (776)
+%%
+storm
+%%
+嵐 (777)
+%%
+promontory
+%%
+崎 (778)
+%%
+enter
+%%
+入 (779)
+%%
+crowded
+%%
+込 (780)
+%%
+part
+%%
+分 (781)
+%%
+poverty
+%%
+貧 (782)
+%%
+partition
+%%
+頒 (783)
+%%
+public
+%%
+公 (784)
+%%
+pine tree
+%%
+松 (785)
+%%
+venerable old man
+%%
+翁 (786)
+%%
+sue
+%%
+訟 (787)
+%%
+valley
+%%
+谷 (788)
+%%
+bathe
+%%
+浴 (789)
+%%
+contain
+%%
+容 (790)
+%%
+melt
+%%
+溶 (791)
+%%
+longing
+%%
+欲 (792)
+%%
+abundant
+%%
+裕 (793)
+%%
+lead (metal)
+%%
+鉛 (794)
+%%
+run alongside
+%%
+沿 (795)
+%%
+prize
+%%
+賞 (796)
+%%
+party
+%%
+党 (797)
+%%
+public chamber
+%%
+堂 (798)
+%%
+usual
+%%
+常 (799)
+%%
+skirt
+%%
+裳 (800)
+%%
+manipulate
+%%
+掌 (801)
+%%
+pelt
+%%
+皮 (802)
+%%
+waves
+%%
+波 (803)
+%%
+old woman
+%%
+婆 (804)
+%%
+expose
+%%
+披 (805)
+%%
+rend
+%%
+破 (806)
+%%
+incur
+%%
+被 (807)
+%%
+remainder
+%%
+残 (808)
+%%
+martyrdom
+%%
+殉 (809)
+%%
+particularly
+%%
+殊 (810)
+%%
+augment
+%%
+殖 (811)
+%%
+file
+%%
+列 (812)
+%%
+split
+%%
+裂 (813)
+%%
+ardent
+%%
+烈 (814)
+%%
+death
+%%
+死 (815)
+%%
+interment
+%%
+葬 (816)
+%%
+wink
+%%
+瞬 (817)
+%%
+ear
+%%
+耳 (818)
+%%
+take
+%%
+取 (819)
+%%
+gist
+%%
+趣 (820)
+%%
+utmost
+%%
+最 (821)
+%%
+snapshot
+%%
+撮 (822)
+%%
+shame
+%%
+恥 (823)
+%%
+post
+%%
+職 (824)
+%%
+holy
+%%
+聖 (825)
+%%
+daring
+%%
+敢 (826)
+%%
+listen
+%%
+聴 (827)
+%%
+pocket
+%%
+懐 (828)
+%%
+ridicule
+%%
+慢 (829)
+%%
+loose
+%%
+漫 (830)
+%%
+buy
+%%
+買 (831)
+%%
+placement
+%%
+置 (832)
+%%
+penalty
+%%
+罰 (833)
+%%
+rather
+%%
+寧 (834)
+%%
+voiced
+%%
+濁 (835)
+%%
+ring
+%%
+環 (836)
+%%
+send back
+%%
+還 (837)
+%%
+husband
+%%
+夫 (838)
+%%
+aid
+%%
+扶 (839)
+%%
+mountain stream
+%%
+渓 (840)
+%%
+standard
+%%
+規 (841)
+%%
+exchange
+%%
+替 (842)
+%%
+approve
+%%
+賛 (843)
+%%
+submerge
+%%
+潜 (844)
+%%
+lose
+%%
+失 (845)
+%%
+iron
+%%
+鉄 (846)
+%%
+transfer
+%%
+迭 (847)
+%%
+retainer
+%%
+臣 (848)
+%%
+princess
+%%
+姫 (849)
+%%
+storehouse
+%%
+蔵 (850)
+%%
+entrails
+%%
+臓 (851)
+%%
+intelligent
+%%
+賢 (852)
+%%
+strict
+%%
+堅 (853)
+%%
+look to
+%%
+臨 (854)
+%%
+perusal
+%%
+覧 (855)
+%%
+gigantic
+%%
+巨 (856)
+%%
+repel
+%%
+拒 (857)
+%%
+power
+%%
+力 (858)
+%%
+male
+%%
+男 (859)
+%%
+labor
+%%
+労 (860)
+%%
+recruit
+%%
+募 (861)
+%%
+inferiority
+%%
+劣 (862)
+%%
+achievement
+%%
+功 (863)
+%%
+persuade
+%%
+勧 (864)
+%%
+toil
+%%
+努 (865)
+%%
+encourage
+%%
+励 (866)
+%%
+add
+%%
+加 (867)
+%%
+congratulations
+%%
+賀 (868)
+%%
+erect
+%%
+架 (869)
+%%
+armpit
+%%
+脇 (870)
+%%
+threaten
+%%
+脅 (871)
+%%
+co-
+%%
+協 (872)
+%%
+going
+%%
+行 (873)
+%%
+rhythm
+%%
+律 (874)
+%%
+restore
+%%
+復 (875)
+%%
+gain
+%%
+得 (876)
+%%
+accompany
+%%
+従 (877)
+%%
+junior
+%%
+徒 (878)
+%%
+wait
+%%
+待 (879)
+%%
+journey
+%%
+往 (880)
+%%
+subjugate
+%%
+征 (881)
+%%
+diameter
+%%
+径 (882)
+%%
+he
+%%
+彼 (883)
+%%
+duty
+%%
+役 (884)
+%%
+benevolence
+%%
+徳 (885)
+%%
+penetrate
+%%
+徹 (886)
+%%
+indications
+%%
+徴 (887)
+%%
+penal
+%%
+懲 (888)
+%%
+delicate
+%%
+微 (889)
+%%
+boulevard
+%%
+街 (890)
+%%
+equilibrium
+%%
+衡 (891)
+%%
+draft
+%%
+稿 (892)
+%%
+earnings
+%%
+稼 (893)
+%%
+extent
+%%
+程 (894)
+%%
+tax
+%%
+税 (895)
+%%
+immature
+%%
+稚 (896)
+%%
+harmony
+%%
+和 (897)
+%%
+shift
+%%
+移 (898)
+%%
+second
+%%
+秒 (899)
+%%
+autumn
+%%
+秋 (900)
+%%
+distress
+%%
+愁 (901)
+%%
+private
+%%
+私 (902)
+%%
+regularity
+%%
+秩 (903)
+%%
+secret
+%%
+秘 (904)
+%%
+appellation
+%%
+称 (905)
+%%
+profit
+%%
+利 (906)
+%%
+pear tree
+%%
+梨 (907)
+%%
+harvest
+%%
+穫 (908)
+%%
+ear (of a plant)
+%%
+穂 (909)
+%%
+rice plant
+%%
+稲 (910)
+%%
+incense
+%%
+香 (911)
+%%
+seasons
+%%
+季 (912)
+%%
+committee
+%%
+委 (913)
+%%
+excel
+%%
+秀 (914)
+%%
+transparent
+%%
+透 (915)
+%%
+entice
+%%
+誘 (916)
+%%
+cereals
+%%
+穀 (917)
+%%
+germ (wheat)
+%%
+菌 (918)
+%%
+rice
+%%
+米 (919)
+%%
+flour
+%%
+粉 (920)
+%%
+sticky
+%%
+粘 (921)
+%%
+grains
+%%
+粒 (922)
+%%
+cosmetics
+%%
+粧 (923)
+%%
+astray
+%%
+迷 (924)
+%%
+chic
+%%
+粋 (925)
+%%
+provisions
+%%
+糧 (926)
+%%
+chrysanthemum
+%%
+菊 (927)
+%%
+core
+%%
+奥 (928)
+%%
+number
+%%
+数 (929)
+%%
+watchtower
+%%
+楼 (930)
+%%
+sort
+%%
+類 (931)
+%%
+lacquer
+%%
+漆 (932)
+%%
+Esq.
+%%
+様 (933)
+%%
+request
+%%
+求 (934)
+%%
+ball
+%%
+球 (935)
+%%
+salvation
+%%
+救 (936)
+%%
+bamboo
+%%
+竹 (937)
+%%
+laugh
+%%
+笑 (938)
+%%
+bamboo hat
+%%
+笠 (939)
+%%
+bamboo grass
+%%
+笹 (940)
+%%
+muscle
+%%
+筋 (941)
+%%
+box
+%%
+箱 (942)
+%%
+writing brush
+%%
+筆 (943)
+%%
+cylinder
+%%
+筒 (944)
+%%
+etc.
+%%
+等 (945)
+%%
+calculate
+%%
+算 (946)
+%%
+solution
+%%
+答 (947)
+%%
+scheme
+%%
+策 (948)
+%%
+register
+%%
+簿 (949)
+%%
+fabricate
+%%
+築 (950)
+%%
+person
+%%
+人 (951)
+%%
+assistant
+%%
+佐 (952)
+%%
+however
+%%
+但 (953)
+%%
+dwell
+%%
+住 (954)
+%%
+rank
+%%
+位 (955)
+%%
+go-between
+%%
+仲 (956)
+%%
+body
+%%
+体 (957)
+%%
+remote/permanence
+%%
+悠 (958)
+%%
+affair
+%%
+件 (959)
+%%
+attend
+%%
+仕 (960)
+%%
+other
+%%
+他 (961)
+%%
+prostrated
+%%
+伏 (962)
+%%
+transmit
+%%
+伝 (963)
+%%
+Buddha
+%%
+仏 (964)
+%%
+rest
+%%
+休 (965)
+%%
+provisional/sham
+%%
+仮 (966)
+%%
+chief
+%%
+伯 (967)
+%%
+vulgar
+%%
+俗 (968)
+%%
+faith
+%%
+信 (969)
+%%
+excellent
+%%
+佳 (970)
+%%
+reliant
+%%
+依 (971)
+%%
+example
+%%
+例 (972)
+%%
+individual
+%%
+個 (973)
+%%
+healthy
+%%
+健 (974)
+%%
+side
+%%
+側 (975)
+%%
+waiter
+%%
+侍 (976)
+%%
+halt
+%%
+停 (977)
+%%
+price
+%%
+値 (978)
+%%
+emulate
+%%
+倣 (979)
+%%
+overthrow
+%%
+倒 (980)
+%%
+spy
+%%
+偵 (981)
+%%
+Buddhist priest
+%%
+僧 (982)
+%%
+hundred million
+%%
+億 (983)
+%%
+ceremony
+%%
+儀 (984)
+%%
+reparation
+%%
+償 (985)
+%%
+hermit
+%%
+仙 (986)
+%%
+sponsor
+%%
+催 (987)
+%%
+humanity
+%%
+仁 (988)
+%%
+scorn
+%%
+侮 (989)
+%%
+use
+%%
+使 (990)
+%%
+convenience
+%%
+便 (991)
+%%
+double
+%%
+倍 (992)
+%%
+tenderness
+%%
+優 (993)
+%%
+fell
+%%
+伐 (994)
+%%
+inn
+%%
+宿 (995)
+%%
+wound
+%%
+傷 (996)
+%%
+protect
+%%
+保 (997)
+%%
+praise
+%%
+褒 (998)
+%%
+greatness
+%%
+傑 (999)
+%%
+adhere
+%%
+付 (1000)
+%%
+token
+%%
+符 (1001)
+%%
+borough
+%%
+府 (1002)
+%%
+responsibility
+%%
+任 (1003)
+%%
+fare
+%%
+賃 (1004)
+%%
+substitute
+%%
+代 (1005)
+%%
+sack
+%%
+袋 (1006)
+%%
+lend
+%%
+貸 (1007)
+%%
+change
+%%
+化 (1008)
+%%
+flower
+%%
+花 (1009)
+%%
+freight
+%%
+貨 (1010)
+%%
+lean
+%%
+傾 (1011)
+%%
+what
+%%
+何 (1012)
+%%
+baggage
+%%
+荷 (1013)
+%%
+sagacious
+%%
+俊 (1014)
+%%
+bystander
+%%
+傍 (1015)
+%%
+long time
+%%
+久 (1016)
+%%
+furrow
+%%
+畝 (1017)
+%%
+captured
+%%
+囚 (1018)
+%%
+inside
+%%
+内 (1019)
+%%
+third class
+%%
+丙 (1020)
+%%
+design
+%%
+柄 (1021)
+%%
+meat
+%%
+肉 (1022)
+%%
+rot
+%%
+腐 (1023)
+%%
+sit/squat
+%%
+座 (1024)
+%%
+graduate
+%%
+卒 (1025)
+%%
+umbrella
+%%
+傘 (1026)
+%%
+monme
+%%
+匁 (1027)
+%%
+by means of
+%%
+以 (1028)
+%%
+similar/becoming
+%%
+似 (1029)
+%%
+join
+%%
+併 (1030)
+%%
+tile
+%%
+瓦 (1031)
+%%
+flower pot
+%%
+瓶 (1032)
+%%
+Shinto shrine
+%%
+宮 (1033)
+%%
+occupation
+%%
+営 (1034)
+%%
+virtuous
+%%
+善 (1035)
+%%
+year
+%%
+年 (1036)
+%%
+night
+%%
+夜 (1037)
+%%
+fluid
+%%
+液 (1038)
+%%
+hillock
+%%
+塚 (1039)
+%%
+cash
+%%
+幣 (1040)
+%%
+abuse
+%%
+弊 (1041)
+%%
+yell
+%%
+喚 (1042)
+%%
+interchange
+%%
+換 (1043)
+%%
+dissolve
+%%
+融 (1044)
+%%
+alms
+%%
+施 (1045)
+%%
+rotation
+%%
+旋 (1046)
+%%
+play
+%%
+遊 (1047)
+%%
+trip
+%%
+旅 (1048)
+%%
+not
+%%
+勿 (1049)
+%%
+thing
+%%
+物 (1050)
+%%
+easy
+%%
+易 (1051)
+%%
+grant
+%%
+賜 (1052)
+%%
+urine
+%%
+尿 (1053)
+%%
+nun
+%%
+尼 (1054)
+%%
+mud
+%%
+泥 (1055)
+%%
+fence
+%%
+塀 (1056)
+%%
+footgear
+%%
+履 (1057)
+%%
+roof
+%%
+屋 (1058)
+%%
+grip
+%%
+握 (1059)
+%%
+yield
+%%
+屈 (1060)
+%%
+dig
+%%
+掘 (1061)
+%%
+ditch
+%%
+堀 (1062)
+%%
+reside
+%%
+居 (1063)
+%%
+set
+%%
+据 (1064)
+%%
+stratum
+%%
+層 (1065)
+%%
+bureau
+%%
+局 (1066)
+%%
+slow
+%%
+遅 (1067)
+%%
+leak
+%%
+漏 (1068)
+%%
+printing
+%%
+刷 (1069)
+%%
+shaku
+%%
+尺 (1070)
+%%
+exhaust
+%%
+尽 (1071)
+%%
+swamp
+%%
+沢 (1072)
+%%
+translate
+%%
+訳 (1073)
+%%
+choose
+%%
+択 (1074)
+%%
+daytime
+%%
+昼 (1075)
+%%
+door
+%%
+戸 (1076)
+%%
+shoulder
+%%
+肩 (1077)
+%%
+tassel
+%%
+房 (1078)
+%%
+fan
+%%
+扇 (1079)
+%%
+hearth
+%%
+炉 (1080)
+%%
+re-
+%%
+戻 (1081)
+%%
+tears
+%%
+涙 (1082)
+%%
+employ
+%%
+雇 (1083)
+%%
+look back
+%%
+顧 (1084)
+%%
+disclose
+%%
+啓 (1085)
+%%
+show
+%%
+示 (1086)
+%%
+salute
+%%
+礼 (1087)
+%%
+auspicious
+%%
+祥 (1088)
+%%
+celebrate
+%%
+祝 (1089)
+%%
+blessing
+%%
+福 (1090)
+%%
+welfare
+%%
+祉 (1091)
+%%
+company
+%%
+社 (1092)
+%%
+inspection
+%%
+視 (1093)
+%%
+Nara
+%%
+奈 (1094)
+%%
+military officer
+%%
+尉 (1095)
+%%
+consolation
+%%
+慰 (1096)
+%%
+goodwill
+%%
+款 (1097)
+%%
+prohibition
+%%
+禁 (1098)
+%%
+collar
+%%
+襟 (1099)
+%%
+religion
+%%
+宗 (1100)
+%%
+adore
+%%
+崇 (1101)
+%%
+ritual
+%%
+祭 (1102)
+%%
+guess
+%%
+察 (1103)
+%%
+grate
+%%
+擦 (1104)
+%%
+wherefore
+%%
+由 (1105)
+%%
+pluck
+%%
+抽 (1106)
+%%
+oil
+%%
+油 (1107)
+%%
+sleeve
+%%
+袖 (1108)
+%%
+mid-air
+%%
+宙 (1109)
+%%
+deliver
+%%
+届 (1110)
+%%
+flute
+%%
+笛 (1111)
+%%
+axis
+%%
+軸 (1112)
+%%
+armor
+%%
+甲 (1113)
+%%
+push
+%%
+押 (1114)
+%%
+headland
+%%
+岬 (1115)
+%%
+insert
+%%
+挿 (1116)
+%%
+speaketh
+%%
+申 (1117)
+%%
+expand
+%%
+伸 (1118)
+%%
+gods
+%%
+神 (1119)
+%%
+search
+%%
+捜 (1120)
+%%
+fruit
+%%
+果 (1121)
+%%
+candy
+%%
+菓 (1122)
+%%
+chapter
+%%
+課 (1123)
+%%
+naked
+%%
+裸 (1124)
+%%
+axe
+%%
+斤 (1125)
+%%
+chop
+%%
+析 (1126)
+%%
+place
+%%
+所 (1127)
+%%
+pray
+%%
+祈 (1128)
+%%
+near
+%%
+近 (1129)
+%%
+fold
+%%
+折 (1130)
+%%
+philosophy
+%%
+哲 (1131)
+%%
+departed
+%%
+逝 (1132)
+%%
+vow
+%%
+誓 (1133)
+%%
+temporarily
+%%
+暫 (1134)
+%%
+steadily
+%%
+漸 (1135)
+%%
+severance
+%%
+断 (1136)
+%%
+substance
+%%
+質 (1137)
+%%
+reject
+%%
+斥 (1138)
+%%
+accusation
+%%
+訴 (1139)
+%%
+yesterday
+%%
+昨 (1140)
+%%
+lie
+%%
+詐 (1141)
+%%
+make
+%%
+作 (1142)
+%%
+snow
+%%
+雪 (1143)
+%%
+record
+%%
+録 (1144)
+%%
+inquire
+%%
+尋 (1145)
+%%
+hurry
+%%
+急 (1146)
+%%
+calm
+%%
+穏 (1147)
+%%
+encroach
+%%
+侵 (1148)
+%%
+immersed
+%%
+浸 (1149)
+%%
+lie down
+%%
+寝 (1150)
+%%
+lady
+%%
+婦 (1151)
+%%
+sweep
+%%
+掃 (1152)
+%%
+hit
+%%
+当 (1153)
+%%
+contend
+%%
+争 (1154)
+%%
+clean
+%%
+浄 (1155)
+%%
+matter
+%%
+事 (1156)
+%%
+T'ang
+%%
+唐 (1157)
+%%
+sugar
+%%
+糖 (1158)
+%%
+sane/ease
+%%
+康 (1159)
+%%
+apprehend
+%%
+逮 (1160)
+%%
+Italy
+%%
+伊 (1161)
+%%
+old boy
+%%
+君 (1162)
+%%
+flock
+%%
+群 (1163)
+%%
+-proof
+%%
+耐 (1164)
+%%
+demand
+%%
+需 (1165)
+%%
+Confucian
+%%
+儒 (1166)
+%%
+edge
+%%
+端 (1167)
+%%
+both
+%%
+両 (1168)
+%%
+full
+%%
+満 (1169)
+%%
+brush stroke
+%%
+画 (1170)
+%%
+tooth
+%%
+歯 (1171)
+%%
+bend
+%%
+曲 (1172)
+%%
+cadet
+%%
+曹 (1173)
+%%
+encounter
+%%
+遭 (1174)
+%%
+rowing
+%%
+漕 (1175)
+%%
+vat
+%%
+槽 (1176)
+%%
+Big Dipper
+%%
+斗 (1177)
+%%
+fee
+%%
+料 (1178)
+%%
+department
+%%
+科 (1179)
+%%
+map
+%%
+図 (1180)
+%%
+utilize
+%%
+用 (1181)
+%%
+comfortable/commonplace
+%%
+庸 (1182)
+%%
+equip
+%%
+備 (1183)
+%%
+once upon a time
+%%
+昔 (1184)
+%%
+confused
+%%
+錯 (1185)
+%%
+borrow
+%%
+借 (1186)
+%%
+pity
+%%
+惜 (1187)
+%%
+set aside
+%%
+措 (1188)
+%%
+scatter
+%%
+散 (1189)
+%%
+twenty
+%%
+廿 (1190)
+%%
+commoner
+%%
+庶 (1191)
+%%
+intercept
+%%
+遮 (1192)
+%%
+seat
+%%
+席 (1193)
+%%
+degrees
+%%
+度 (1194)
+%%
+transit
+%%
+渡 (1195)
+%%
+bustle
+%%
+奔 (1196)
+%%
+erupt
+%%
+噴 (1197)
+%%
+tomb
+%%
+墳 (1198)
+%%
+aroused
+%%
+憤 (1199)
+%%
+bake
+%%
+焼 (1200)
+%%
+daybreak
+%%
+暁 (1201)
+%%
+half
+%%
+半 (1202)
+%%
+consort
+%%
+伴 (1203)
+%%
+paddy-ridge
+%%
+畔 (1204)
+%%
+judgment
+%%
+判 (1205)
+%%
+ticket
+%%
+券 (1206)
+%%
+scroll
+%%
+巻 (1207)
+%%
+sphere
+%%
+圏 (1208)
+%%
+victory
+%%
+勝 (1209)
+%%
+wisteria
+%%
+藤 (1210)
+%%
+facsimile/mimeograph
+%%
+謄 (1211)
+%%
+one-side
+%%
+片 (1212)
+%%
+printing block
+%%
+版 (1213)
+%%
+of
+%%
+之 (1214)
+%%
+destitution
+%%
+乏 (1215)
+%%
+turf
+%%
+芝 (1216)
+%%
+negative
+%%
+不 (1217)
+%%
+negate
+%%
+否 (1218)
+%%
+cupfuls
+%%
+杯 (1219)
+%%
+dart
+%%
+矢 (1220)
+%%
+rectify
+%%
+矯 (1221)
+%%
+tribe
+%%
+族 (1222)
+%%
+know
+%%
+知 (1223)
+%%
+wisdom
+%%
+智 (1224)
+%%
+halberd
+%%
+矛 (1225)
+%%
+tender
+%%
+柔 (1226)
+%%
+task
+%%
+務 (1227)
+%%
+fog
+%%
+霧 (1228)
+%%
+squad
+%%
+班 (1229)
+%%
+homecoming
+%%
+帰 (1230)
+%%
+bow
+%%
+弓 (1231)
+%%
+pull
+%%
+引 (1232)
+%%
+condolences
+%%
+弔 (1233)
+%%
+vast
+%%
+弘 (1234)
+%%
+strong
+%%
+強 (1235)
+%%
+weak
+%%
+弱 (1236)
+%%
+seethe
+%%
+沸 (1237)
+%%
+expense
+%%
+費 (1238)
+%%
+No.
+%%
+第 (1239)
+%%
+younger brother
+%%
+弟 (1240)
+%%
+adroit
+%%
+巧 (1241)
+%%
+nickname
+%%
+号 (1242)
+%%
+decay
+%%
+朽 (1243)
+%%
+boast
+%%
+誇 (1244)
+%%
+dirty
+%%
+汚 (1245)
+%%
+bestow
+%%
+与 (1246)
+%%
+copy
+%%
+写 (1247)
+%%
+somebody
+%%
+身 (1248)
+%%
+shoot
+%%
+射 (1249)
+%%
+apologize
+%%
+謝 (1250)
+%%
+old man
+%%
+老 (1251)
+%%
+consider
+%%
+考 (1252)
+%%
+filial piety
+%%
+孝 (1253)
+%%
+teach
+%%
+教 (1254)
+%%
+torture
+%%
+拷 (1255)
+%%
+someone
+%%
+者 (1256)
+%%
+boil
+%%
+煮 (1257)
+%%
+renowned
+%%
+著 (1258)
+%%
+signature
+%%
+署 (1259)
+%%
+sultry
+%%
+暑 (1260)
+%%
+various
+%%
+諸 (1261)
+%%
+boar
+%%
+猪 (1262)
+%%
+strand
+%%
+渚 (1263)
+%%
+gamble
+%%
+賭 (1264)
+%%
+gorge
+%%
+峡 (1265)
+%%
+cramped
+%%
+狭 (1266)
+%%
+sandwiched
+%%
+挟 (1267)
+%%
+chase
+%%
+追 (1268)
+%%
+expert
+%%
+師 (1269)
+%%
+commander
+%%
+帥 (1270)
+%%
+bureaucrat
+%%
+官 (1271)
+%%
+coffin
+%%
+棺 (1272)
+%%
+pipe
+%%
+管 (1273)
+%%
+father
+%%
+父 (1274)
+%%
+mingle
+%%
+交 (1275)
+%%
+merit
+%%
+効 (1276)
+%%
+contrast
+%%
+較 (1277)
+%%
+exam
+%%
+校 (1278)
+%%
+leg
+%%
+足 (1279)
+%%
+stimulate
+%%
+促 (1280)
+%%
+long-distance
+%%
+距 (1281)
+%%
+path
+%%
+路 (1282)
+%%
+dew
+%%
+露 (1283)
+%%
+hop
+%%
+跳 (1284)
+%%
+leap
+%%
+躍 (1285)
+%%
+tread
+%%
+践 (1286)
+%%
+step
+%%
+踏 (1287)
+%%
+skeleton
+%%
+骨 (1288)
+%%
+slippery
+%%
+滑 (1289)
+%%
+marrow
+%%
+髄 (1290)
+%%
+calamity
+%%
+禍 (1291)
+%%
+whirlpool
+%%
+渦 (1292)
+%%
+overdo
+%%
+過 (1293)
+%%
+Heights
+%%
+阪 (1294)
+%%
+Africa
+%%
+阿 (1295)
+%%
+occasion
+%%
+際 (1296)
+%%
+hinder
+%%
+障 (1297)
+%%
+follow
+%%
+随 (1298)
+%%
+auxiliary/obeisance
+%%
+陪 (1299)
+%%
+sunshine
+%%
+陽 (1300)
+%%
+line up/exhibit
+%%
+陳 (1301)
+%%
+ward off
+%%
+防 (1302)
+%%
+affixed
+%%
+附 (1303)
+%%
+Inst.
+%%
+院 (1304)
+%%
+camp
+%%
+陣 (1305)
+%%
+regiment
+%%
+隊 (1306)
+%%
+crash
+%%
+墜 (1307)
+%%
+descend
+%%
+降 (1308)
+%%
+storey
+%%
+階 (1309)
+%%
+highness
+%%
+陛 (1310)
+%%
+neighboring
+%%
+隣 (1311)
+%%
+isolate
+%%
+隔 (1312)
+%%
+conceal
+%%
+隠 (1313)
+%%
+degenerate
+%%
+堕 (1314)
+%%
+collapse
+%%
+陥 (1315)
+%%
+hole
+%%
+穴 (1316)
+%%
+empty
+%%
+空 (1317)
+%%
+withdraw
+%%
+控 (1318)
+%%
+stab
+%%
+突 (1319)
+%%
+research
+%%
+究 (1320)
+%%
+plug up
+%%
+窒 (1321)
+%%
+stealth
+%%
+窃 (1322)
+%%
+depression
+%%
+窪 (1323)
+%%
+squeeze
+%%
+搾 (1324)
+%%
+kiln
+%%
+窯 (1325)
+%%
+hard up
+%%
+窮 (1326)
+%%
+grope
+%%
+探 (1327)
+%%
+deep
+%%
+深 (1328)
+%%
+hill
+%%
+丘 (1329)
+%%
+Point
+%%
+岳 (1330)
+%%
+soldier
+%%
+兵 (1331)
+%%
+seacoast
+%%
+浜 (1332)
+%%
+thread
+%%
+糸 (1333)
+%%
+weave
+%%
+織 (1334)
+%%
+darning
+%%
+繕 (1335)
+%%
+shrink
+%%
+縮 (1336)
+%%
+luxuriant
+%%
+繁 (1337)
+%%
+vertical
+%%
+縦 (1338)
+%%
+line
+%%
+線 (1339)
+%%
+tighten
+%%
+締 (1340)
+%%
+fiber
+%%
+維 (1341)
+%%
+gauze
+%%
+羅 (1342)
+%%
+practice
+%%
+練 (1343)
+%%
+thong
+%%
+緒 (1344)
+%%
+continue
+%%
+続 (1345)
+%%
+picture
+%%
+絵 (1346)
+%%
+overall
+%%
+統 (1347)
+%%
+strangle
+%%
+絞 (1348)
+%%
+salary
+%%
+給 (1349)
+%%
+entwine
+%%
+絡 (1350)
+%%
+tie
+%%
+結 (1351)
+%%
+end
+%%
+終 (1352)
+%%
+class
+%%
+級 (1353)
+%%
+chronicle
+%%
+紀 (1354)
+%%
+crimson
+%%
+紅 (1355)
+%%
+settlement
+%%
+納 (1356)
+%%
+spinning
+%%
+紡 (1357)
+%%
+distract
+%%
+紛 (1358)
+%%
+introduce
+%%
+紹 (1359)
+%%
+sutra
+%%
+経 (1360)
+%%
+sire
+%%
+紳 (1361)
+%%
+promise
+%%
+約 (1362)
+%%
+dainty
+%%
+細 (1363)
+%%
+accumulate
+%%
+累 (1364)
+%%
+cord
+%%
+索 (1365)
+%%
+general
+%%
+総 (1366)
+%%
+cotton
+%%
+綿 (1367)
+%%
+silk
+%%
+絹 (1368)
+%%
+winding
+%%
+繰 (1369)
+%%
+inherit
+%%
+継 (1370)
+%%
+green
+%%
+緑 (1371)
+%%
+affinity
+%%
+縁 (1372)
+%%
+netting
+%%
+網 (1373)
+%%
+tense
+%%
+緊 (1374)
+%%
+purple
+%%
+紫 (1375)
+%%
+truss
+%%
+縛 (1376)
+%%
+straw rope
+%%
+縄 (1377)
+%%
+infancy
+%%
+幼 (1378)
+%%
+behind
+%%
+後 (1379)
+%%
+faint/seclude
+%%
+幽 (1380)
+%%
+how many
+%%
+幾 (1381)
+%%
+mechanism
+%%
+機 (1382)
+%%
+mysterious
+%%
+玄 (1383)
+%%
+livestock
+%%
+畜 (1384)
+%%
+amass
+%%
+蓄 (1385)
+%%
+bowstring
+%%
+弦 (1386)
+%%
+hug
+%%
+擁 (1387)
+%%
+nourishing
+%%
+滋 (1388)
+%%
+mercy
+%%
+慈 (1389)
+%%
+magnet
+%%
+磁 (1390)
+%%
+lineage
+%%
+系 (1391)
+%%
+person in charge
+%%
+係 (1392)
+%%
+grandchild
+%%
+孫 (1393)
+%%
+suspend
+%%
+懸 (1394)
+%%
+instead
+%%
+却 (1395)
+%%
+shins/skids
+%%
+脚 (1396)
+%%
+wholesale
+%%
+卸 (1397)
+%%
+honorable
+%%
+御 (1398)
+%%
+clothing
+%%
+服 (1399)
+%%
+fate
+%%
+命 (1400)
+%%
+orders
+%%
+令 (1401)
+%%
+zero
+%%
+零 (1402)
+%%
+age
+%%
+齢 (1403)
+%%
+cool
+%%
+冷 (1404)
+%%
+jurisdiction
+%%
+領 (1405)
+%%
+small bell
+%%
+鈴 (1406)
+%%
+courage
+%%
+勇 (1407)
+%%
+traffic
+%%
+通 (1408)
+%%
+jump
+%%
+踊 (1409)
+%%
+doubt
+%%
+疑 (1410)
+%%
+mimic
+%%
+擬 (1411)
+%%
+congeal
+%%
+凝 (1412)
+%%
+pattern
+%%
+範 (1413)
+%%
+crime
+%%
+犯 (1414)
+%%
+unlucky
+%%
+厄 (1415)
+%%
+dangerous
+%%
+危 (1416)
+%%
+address
+%%
+宛 (1417)
+%%
+arm
+%%
+腕 (1418)
+%%
+garden
+%%
+苑 (1419)
+%%
+grudge
+%%
+怨 (1420)
+%%
+willow
+%%
+柳 (1421)
+%%
+egg
+%%
+卵 (1422)
+%%
+detain
+%%
+留 (1423)
+%%
+trade
+%%
+貿 (1424)
+%%
+stamp
+%%
+印 (1425)
+%%
+entertain
+%%
+興 (1426)
+%%
+sign of the bird
+%%
+酉 (1427)
+%%
+sake
+%%
+酒 (1428)
+%%
+bartending
+%%
+酌 (1429)
+%%
+fermentation
+%%
+酵 (1430)
+%%
+cruel
+%%
+酷 (1431)
+%%
+repay
+%%
+酬 (1432)
+%%
+dairy products
+%%
+酪 (1433)
+%%
+vinegar
+%%
+酢 (1434)
+%%
+drunk
+%%
+酔 (1435)
+%%
+distribute
+%%
+配 (1436)
+%%
+acid
+%%
+酸 (1437)
+%%
+waver/furthermore
+%%
+猶 (1438)
+%%
+revered
+%%
+尊 (1439)
+%%
+beans
+%%
+豆 (1440)
+%%
+head
+%%
+頭 (1441)
+%%
+short
+%%
+短 (1442)
+%%
+bountiful
+%%
+豊 (1443)
+%%
+drum
+%%
+鼓 (1444)
+%%
+rejoice
+%%
+喜 (1445)
+%%
+timber-trees
+%%
+樹 (1446)
+%%
+dish
+%%
+皿 (1447)
+%%
+blood
+%%
+血 (1448)
+%%
+basin
+%%
+盆 (1449)
+%%
+alliance
+%%
+盟 (1450)
+%%
+steal
+%%
+盗 (1451)
+%%
+warm
+%%
+温 (1452)
+%%
+oversee
+%%
+監 (1453)
+%%
+overflow
+%%
+濫 (1454)
+%%
+specimen
+%%
+鑑 (1455)
+%%
+fierce
+%%
+猛 (1456)
+%%
+boom
+%%
+盛 (1457)
+%%
+salt
+%%
+塩 (1458)
+%%
+silver
+%%
+銀 (1459)
+%%
+regret
+%%
+恨 (1460)
+%%
+root
+%%
+根 (1461)
+%%
+instant
+%%
+即 (1462)
+%%
+baron
+%%
+爵 (1463)
+%%
+node
+%%
+節 (1464)
+%%
+retreat
+%%
+退 (1465)
+%%
+limit
+%%
+限 (1466)
+%%
+eyeball
+%%
+眼 (1467)
+%%
+good
+%%
+良 (1468)
+%%
+melodious
+%%
+朗 (1469)
+%%
+wandering
+%%
+浪 (1470)
+%%
+daughter
+%%
+娘 (1471)
+%%
+eat
+%%
+食 (1472)
+%%
+meal
+%%
+飯 (1473)
+%%
+drink
+%%
+飲 (1474)
+%%
+hungry
+%%
+飢 (1475)
+%%
+starve
+%%
+餓 (1476)
+%%
+decorate
+%%
+飾 (1477)
+%%
+Bldg.
+%%
+館 (1478)
+%%
+foster
+%%
+養 (1479)
+%%
+sated
+%%
+飽 (1480)
+%%
+previously
+%%
+既 (1481)
+%%
+outline
+%%
+概 (1482)
+%%
+rue
+%%
+慨 (1483)
+%%
+even
+%%
+平 (1484)
+%%
+call
+%%
+呼 (1485)
+%%
+two-mat area
+%%
+坪 (1486)
+%%
+evaluate
+%%
+評 (1487)
+%%
+reap
+%%
+刈 (1488)
+%%
+hope
+%%
+希 (1489)
+%%
+villain
+%%
+凶 (1490)
+%%
+bosom
+%%
+胸 (1491)
+%%
+detach
+%%
+離 (1492)
+%%
+kill
+%%
+殺 (1493)
+%%
+genuine
+%%
+純 (1494)
+%%
+dull
+%%
+鈍 (1495)
+%%
+spicy
+%%
+辛 (1496)
+%%
+resign
+%%
+辞 (1497)
+%%
+catalpa
+%%
+梓 (1498)
+%%
+superintend
+%%
+宰 (1499)
+%%
+wall
+%%
+壁 (1500)
+%%
+evade
+%%
+避 (1501)
+%%
+new
+%%
+新 (1502)
+%%
+fuel
+%%
+薪 (1503)
+%%
+parent
+%%
+親 (1504)
+%%
+happiness
+%%
+幸 (1505)
+%%
+tenacious
+%%
+執 (1506)
+%%
+report
+%%
+報 (1507)
+%%
+shout
+%%
+叫 (1508)
+%%
+twist
+%%
+糾 (1509)
+%%
+income
+%%
+収 (1510)
+%%
+lowly
+%%
+卑 (1511)
+%%
+tombstone
+%%
+碑 (1512)
+%%
+land
+%%
+陸 (1513)
+%%
+intimate
+%%
+睦 (1514)
+%%
+forces
+%%
+勢 (1515)
+%%
+heat
+%%
+熱 (1516)
+%%
+diamond
+%%
+菱 (1517)
+%%
+mausoleum
+%%
+陵 (1518)
+%%
+sign of the hog
+%%
+亥 (1519)
+%%
+nucleus
+%%
+核 (1520)
+%%
+engrave
+%%
+刻 (1521)
+%%
+above-stated
+%%
+該 (1522)
+%%
+censure
+%%
+劾 (1523)
+%%
+mention
+%%
+述 (1524)
+%%
+art
+%%
+術 (1525)
+%%
+cold
+%%
+寒 (1526)
+%%
+brew
+%%
+醸 (1527)
+%%
+defer
+%%
+譲 (1528)
+%%
+lot
+%%
+壌 (1529)
+%%
+lass
+%%
+嬢 (1530)
+%%
+poison
+%%
+毒 (1531)
+%%
+elementary
+%%
+素 (1532)
+%%
+barley
+%%
+麦 (1533)
+%%
+blue
+%%
+青 (1534)
+%%
+refined
+%%
+精 (1535)
+%%
+solicit
+%%
+請 (1536)
+%%
+feelings
+%%
+情 (1537)
+%%
+clear up
+%%
+晴 (1538)
+%%
+pure
+%%
+清 (1539)
+%%
+quiet
+%%
+静 (1540)
+%%
+blame
+%%
+責 (1541)
+%%
+exploits
+%%
+績 (1542)
+%%
+volume
+%%
+積 (1543)
+%%
+bond
+%%
+債 (1544)
+%%
+pickling
+%%
+漬 (1545)
+%%
+surface
+%%
+表 (1546)
+%%
+bag
+%%
+俵 (1547)
+%%
+undefiled
+%%
+潔 (1548)
+%%
+pledge
+%%
+契 (1549)
+%%
+consume
+%%
+喫 (1550)
+%%
+harm
+%%
+害 (1551)
+%%
+control
+%%
+轄 (1552)
+%%
+proportion
+%%
+割 (1553)
+%%
+constitution
+%%
+憲 (1554)
+%%
+life
+%%
+生 (1555)
+%%
+star
+%%
+星 (1556)
+%%
+surname
+%%
+姓 (1557)
+%%
+sex
+%%
+性 (1558)
+%%
+animal sacrifice
+%%
+牲 (1559)
+%%
+products
+%%
+産 (1560)
+%%
+hump
+%%
+隆 (1561)
+%%
+summit
+%%
+峰 (1562)
+%%
+sew
+%%
+縫 (1563)
+%%
+worship
+%%
+拝 (1564)
+%%
+longevity
+%%
+寿 (1565)
+%%
+casting
+%%
+鋳 (1566)
+%%
+enroll
+%%
+籍 (1567)
+%%
+springtime
+%%
+春 (1568)
+%%
+camellia
+%%
+椿 (1569)
+%%
+peaceful
+%%
+泰 (1570)
+%%
+play music
+%%
+奏 (1571)
+%%
+reality
+%%
+実 (1572)
+%%
+dedicate/observance
+%%
+奉 (1573)
+%%
+stipend
+%%
+俸 (1574)
+%%
+rod
+%%
+棒 (1575)
+%%
+discreet
+%%
+謹 (1576)
+%%
+diligence
+%%
+勤 (1577)
+%%
+Sino-
+%%
+漢 (1578)
+%%
+sigh
+%%
+嘆 (1579)
+%%
+difficult
+%%
+難 (1580)
+%%
+splendor
+%%
+華 (1581)
+%%
+droop
+%%
+垂 (1582)
+%%
+drowsy
+%%
+睡 (1583)
+%%
+spindle
+%%
+錘 (1584)
+%%
+ride
+%%
+乗 (1585)
+%%
+surplus
+%%
+剰 (1586)
+%%
+now
+%%
+今 (1587)
+%%
+include
+%%
+含 (1588)
+%%
+versify
+%%
+吟 (1589)
+%%
+wish
+%%
+念 (1590)
+%%
+harp
+%%
+琴 (1591)
+%%
+shade
+%%
+陰 (1592)
+%%
+beforehand
+%%
+予 (1593)
+%%
+preface
+%%
+序 (1594)
+%%
+deposit
+%%
+預 (1595)
+%%
+plains
+%%
+野 (1596)
+%%
+concurrently
+%%
+兼 (1597)
+%%
+dislike
+%%
+嫌 (1598)
+%%
+sickle
+%%
+鎌 (1599)
+%%
+self-effacing
+%%
+謙 (1600)
+%%
+bargain
+%%
+廉 (1601)
+%%
+west
+%%
+西 (1602)
+%%
+value
+%%
+価 (1603)
+%%
+need
+%%
+要 (1604)
+%%
+loins
+%%
+腰 (1605)
+%%
+ballot
+%%
+票 (1606)
+%%
+drift
+%%
+漂 (1607)
+%%
+signpost
+%%
+標 (1608)
+%%
+chestnut
+%%
+栗 (1609)
+%%
+transition
+%%
+遷 (1610)
+%%
+capsize
+%%
+覆 (1611)
+%%
+smoke
+%%
+煙 (1612)
+%%
+south
+%%
+南 (1613)
+%%
+camphor tree
+%%
+楠 (1614)
+%%
+offering
+%%
+献 (1615)
+%%
+gates
+%%
+門 (1616)
+%%
+question
+%%
+問 (1617)
+%%
+review
+%%
+閲 (1618)
+%%
+clique
+%%
+閥 (1619)
+%%
+interval
+%%
+間 (1620)
+%%
+simplicity
+%%
+簡 (1621)
+%%
+open
+%%
+開 (1622)
+%%
+closed
+%%
+閉 (1623)
+%%
+tower
+%%
+閣 (1624)
+%%
+leisure
+%%
+閑 (1625)
+%%
+hear
+%%
+聞 (1626)
+%%
+wet
+%%
+潤 (1627)
+%%
+column
+%%
+欄 (1628)
+%%
+fight
+%%
+闘 (1629)
+%%
+godown
+%%
+倉 (1630)
+%%
+genesis
+%%
+創 (1631)
+%%
+un-
+%%
+非 (1632)
+%%
+haiku
+%%
+俳 (1633)
+%%
+repudiate
+%%
+排 (1634)
+%%
+sad
+%%
+悲 (1635)
+%%
+guilt
+%%
+罪 (1636)
+%%
+comrade
+%%
+輩 (1637)
+%%
+front door
+%%
+扉 (1638)
+%%
+marquis
+%%
+侯 (1639)
+%%
+climate
+%%
+候 (1640)
+%%
+decide
+%%
+決 (1641)
+%%
+cheerful
+%%
+快 (1642)
+%%
+admirable
+%%
+偉 (1643)
+%%
+difference
+%%
+違 (1644)
+%%
+horizontal
+%%
+緯 (1645)
+%%
+defense
+%%
+衛 (1646)
+%%
+Korea
+%%
+韓 (1647)
+%%
+dry
+%%
+干 (1648)
+%%
+liver
+%%
+肝 (1649)
+%%
+publish
+%%
+刊 (1650)
+%%
+sweat
+%%
+汗 (1651)
+%%
+flats
+%%
+軒 (1652)
+%%
+beach
+%%
+岸 (1653)
+%%
+tree-trunk
+%%
+幹 (1654)
+%%
+potato
+%%
+芋 (1655)
+%%
+eaves
+%%
+宇 (1656)
+%%
+too much
+%%
+余 (1657)
+%%
+exclude
+%%
+除 (1658)
+%%
+gradually
+%%
+徐 (1659)
+%%
+confer
+%%
+叙 (1660)
+%%
+route
+%%
+途 (1661)
+%%
+diagonal
+%%
+斜 (1662)
+%%
+paint
+%%
+塗 (1663)
+%%
+bundle
+%%
+束 (1664)
+%%
+trust
+%%
+頼 (1665)
+%%
+rapids
+%%
+瀬 (1666)
+%%
+imperial order
+%%
+勅 (1667)
+%%
+alienate
+%%
+疎 (1668)
+%%
+quick
+%%
+速 (1669)
+%%
+organize
+%%
+整 (1670)
+%%
+sabre
+%%
+剣 (1671)
+%%
+precipitous
+%%
+険 (1672)
+%%
+examination
+%%
+検 (1673)
+%%
+frugal
+%%
+倹 (1674)
+%%
+heavy
+%%
+重 (1675)
+%%
+move
+%%
+動 (1676)
+%%
+meritorious deed
+%%
+勲 (1677)
+%%
+work
+%%
+働 (1678)
+%%
+species
+%%
+種 (1679)
+%%
+collide
+%%
+衝 (1680)
+%%
+fragrant
+%%
+薫 (1681)
+%%
+ill
+%%
+病 (1682)
+%%
+stupid
+%%
+痴 (1683)
+%%
+pox
+%%
+痘 (1684)
+%%
+symptoms
+%%
+症 (1685)
+%%
+rapidly
+%%
+疾 (1686)
+%%
+diarrhea
+%%
+痢 (1687)
+%%
+exhausted
+%%
+疲 (1688)
+%%
+epidemic
+%%
+疫 (1689)
+%%
+pain
+%%
+痛 (1690)
+%%
+mannerism
+%%
+癖 (1691)
+%%
+hide
+%%
+匿 (1692)
+%%
+artisan
+%%
+匠 (1693)
+%%
+doctor
+%%
+医 (1694)
+%%
+equal
+%%
+匹 (1695)
+%%
+ward
+%%
+区 (1696)
+%%
+hinge
+%%
+枢 (1697)
+%%
+assault
+%%
+殴 (1698)
+%%
+Europe
+%%
+欧 (1699)
+%%
+repress
+%%
+抑 (1700)
+%%
+face-up
+%%
+仰 (1701)
+%%
+welcome
+%%
+迎 (1702)
+%%
+ascend
+%%
+登 (1703)
+%%
+lucidity
+%%
+澄 (1704)
+%%
+discharge
+%%
+発 (1705)
+%%
+abolish
+%%
+廃 (1706)
+%%
+colleague
+%%
+僚 (1707)
+%%
+dormitory
+%%
+寮 (1708)
+%%
+heal
+%%
+療 (1709)
+%%
+carve
+%%
+彫 (1710)
+%%
+shape
+%%
+形 (1711)
+%%
+shadow
+%%
+影 (1712)
+%%
+cedar
+%%
+杉 (1713)
+%%
+coloring
+%%
+彩 (1714)
+%%
+patent
+%%
+彰 (1715)
+%%
+lad
+%%
+彦 (1716)
+%%
+face
+%%
+顔 (1717)
+%%
+ought
+%%
+須 (1718)
+%%
+swell
+%%
+膨 (1719)
+%%
+visit/nonplussed
+%%
+参 (1720)
+%%
+wretched
+%%
+惨 (1721)
+%%
+discipline
+%%
+修 (1722)
+%%
+rare
+%%
+珍 (1723)
+%%
+check-up
+%%
+診 (1724)
+%%
+sentence
+%%
+文 (1725)
+%%
+vis-a-vis
+%%
+対 (1726)
+%%
+family crest
+%%
+紋 (1727)
+%%
+mosquito
+%%
+蚊 (1728)
+%%
+adjusted
+%%
+斉 (1729)
+%%
+dose
+%%
+剤 (1730)
+%%
+finish
+%%
+済 (1731)
+%%
+purification
+%%
+斎 (1732)
+%%
+solemn
+%%
+粛 (1733)
+%%
+bases
+%%
+塁 (1734)
+%%
+music
+%%
+楽 (1735)
+%%
+medicine
+%%
+薬 (1736)
+%%
+ratio
+%%
+率 (1737)
+%%
+astringent
+%%
+渋 (1738)
+%%
+vicarious
+%%
+摂 (1739)
+%%
+center
+%%
+央 (1740)
+%%
+England
+%%
+英 (1741)
+%%
+reflect
+%%
+映 (1742)
+%%
+red
+%%
+赤 (1743)
+%%
+pardon
+%%
+赦 (1744)
+%%
+unusual
+%%
+変 (1745)
+%%
+tracks
+%%
+跡 (1746)
+%%
+barbarian
+%%
+蛮 (1747)
+%%
+romance
+%%
+恋 (1748)
+%%
+gulf
+%%
+湾 (1749)
+%%
+yellow
+%%
+黄 (1750)
+%%
+sideways
+%%
+横 (1751)
+%%
+grasp
+%%
+把 (1752)
+%%
+color
+%%
+色 (1753)
+%%
+discontinue
+%%
+絶 (1754)
+%%
+glossy
+%%
+艶 (1755)
+%%
+fertilizer
+%%
+肥 (1756)
+%%
+sweet
+%%
+甘 (1757)
+%%
+navy blue
+%%
+紺 (1758)
+%%
+so-and-so
+%%
+某 (1759)
+%%
+conspire
+%%
+謀 (1760)
+%%
+mediator
+%%
+媒 (1761)
+%%
+deceit
+%%
+欺 (1762)
+%%
+chess piece
+%%
+棋 (1763)
+%%
+national flag
+%%
+旗 (1764)
+%%
+period
+%%
+期 (1765)
+%%
+Go
+%%
+碁 (1766)
+%%
+fundamentals
+%%
+基 (1767)
+%%
+tremendously
+%%
+甚 (1768)
+%%
+intuition
+%%
+勘 (1769)
+%%
+withstand
+%%
+堪 (1770)
+%%
+precious
+%%
+貴 (1771)
+%%
+bequeath
+%%
+遺 (1772)
+%%
+dispatch
+%%
+遣 (1773)
+%%
+dance
+%%
+舞 (1774)
+%%
+nothingness
+%%
+無 (1775)
+%%
+association
+%%
+組 (1776)
+%%
+coarse
+%%
+粗 (1777)
+%%
+tariff
+%%
+租 (1778)
+%%
+ancestor
+%%
+祖 (1779)
+%%
+thwart
+%%
+阻 (1780)
+%%
+investigate
+%%
+査 (1781)
+%%
+help
+%%
+助 (1782)
+%%
+best regards
+%%
+宜 (1783)
+%%
+tatami mat
+%%
+畳 (1784)
+%%
+row
+%%
+並 (1785)
+%%
+universal
+%%
+普 (1786)
+%%
+musical score
+%%
+譜 (1787)
+%%
+damp
+%%
+湿 (1788)
+%%
+appear
+%%
+顕 (1789)
+%%
+slender
+%%
+繊 (1790)
+%%
+spirits
+%%
+霊 (1791)
+%%
+business
+%%
+業 (1792)
+%%
+slap
+%%
+撲 (1793)
+%%
+me
+%%
+僕 (1794)
+%%
+together
+%%
+共 (1795)
+%%
+submit
+%%
+供 (1796)
+%%
+uncommon
+%%
+異 (1797)
+%%
+wing
+%%
+翼 (1798)
+%%
+deluge
+%%
+洪 (1799)
+%%
+harbor
+%%
+港 (1800)
+%%
+outburst
+%%
+暴 (1801)
+%%
+bomb
+%%
+爆 (1802)
+%%
+respect
+%%
+恭 (1803)
+%%
+elect
+%%
+選 (1804)
+%%
+Mr.
+%%
+殿 (1805)
+%%
+well
+%%
+井 (1806)
+%%
+surround
+%%
+囲 (1807)
+%%
+till
+%%
+耕 (1808)
+%%
+Asia
+%%
+亜 (1809)
+%%
+bad
+%%
+悪 (1810)
+%%
+circle
+%%
+円 (1811)
+%%
+angle
+%%
+角 (1812)
+%%
+contact
+%%
+触 (1813)
+%%
+unravel
+%%
+解 (1814)
+%%
+again
+%%
+再 (1815)
+%%
+lecture
+%%
+講 (1816)
+%%
+subscription
+%%
+購 (1817)
+%%
+posture
+%%
+構 (1818)
+%%
+gutter
+%%
+溝 (1819)
+%%
+argument
+%%
+論 (1820)
+%%
+ethics
+%%
+倫 (1821)
+%%
+wheel
+%%
+輪 (1822)
+%%
+partial
+%%
+偏 (1823)
+%%
+everywhere
+%%
+遍 (1824)
+%%
+compilation
+%%
+編 (1825)
+%%
+tome
+%%
+冊 (1826)
+%%
+code
+%%
+典 (1827)
+%%
+family name
+%%
+氏 (1828)
+%%
+paper
+%%
+紙 (1829)
+%%
+marriage
+%%
+婚 (1830)
+%%
+lower
+%%
+低 (1831)
+%%
+resist
+%%
+抵 (1832)
+%%
+bottom
+%%
+底 (1833)
+%%
+people
+%%
+民 (1834)
+%%
+sleep
+%%
+眠 (1835)
+%%
+catch
+%%
+捕 (1836)
+%%
+bay
+%%
+浦 (1837)
+%%
+bulrush
+%%
+蒲 (1838)
+%%
+shop
+%%
+舗 (1839)
+%%
+supplement
+%%
+補 (1840)
+%%
+residence
+%%
+邸 (1841)
+%%
+enclosure
+%%
+郭 (1842)
+%%
+county
+%%
+郡 (1843)
+%%
+outskirts
+%%
+郊 (1844)
+%%
+section
+%%
+部 (1845)
+%%
+metropolis
+%%
+都 (1846)
+%%
+mail
+%%
+郵 (1847)
+%%
+home country
+%%
+邦 (1848)
+%%
+home town
+%%
+郷 (1849)
+%%
+echo
+%%
+響 (1850)
+%%
+son
+%%
+郎 (1851)
+%%
+corridor
+%%
+廊 (1852)
+%%
+shield
+%%
+盾 (1853)
+%%
+sequential
+%%
+循 (1854)
+%%
+faction
+%%
+派 (1855)
+%%
+vein
+%%
+脈 (1856)
+%%
+masses
+%%
+衆 (1857)
+%%
+parcel post
+%%
+逓 (1858)
+%%
+grade
+%%
+段 (1859)
+%%
+forge
+%%
+鍛 (1860)
+%%
+empress
+%%
+后 (1861)
+%%
+phantasm
+%%
+幻 (1862)
+%%
+director
+%%
+司 (1863)
+%%
+pay respects
+%%
+伺 (1864)
+%%
+part of speech
+%%
+詞 (1865)
+%%
+domesticate
+%%
+飼 (1866)
+%%
+heir
+%%
+嗣 (1867)
+%%
+boat
+%%
+舟 (1868)
+%%
+liner
+%%
+舶 (1869)
+%%
+navigate
+%%
+航 (1870)
+%%
+carrier
+%%
+般 (1871)
+%%
+tray
+%%
+盤 (1872)
+%%
+conveyor
+%%
+搬 (1873)
+%%
+ship
+%%
+船 (1874)
+%%
+warship
+%%
+艦 (1875)
+%%
+rowboat
+%%
+艇 (1876)
+%%
+melon
+%%
+瓜 (1877)
+%%
+arc
+%%
+弧 (1878)
+%%
+orphan
+%%
+孤 (1879)
+%%
+cocoon
+%%
+繭 (1880)
+%%
+benefit
+%%
+益 (1881)
+%%
+spare time
+%%
+暇 (1882)
+%%
+spread
+%%
+敷 (1883)
+%%
+come
+%%
+来 (1884)
+%%
+spirit
+%%
+気 (1885)
+%%
+vapor
+%%
+汽 (1886)
+%%
+fly
+%%
+飛 (1887)
+%%
+sink
+%%
+沈 (1888)
+%%
+wife
+%%
+妻 (1889)
+%%
+decline
+%%
+衰 (1890)
+%%
+inmost
+%%
+衷 (1891)
+%%
+mask
+%%
+面 (1892)
+%%
+leather
+%%
+革 (1893)
+%%
+shoes
+%%
+靴 (1894)
+%%
+hegemony
+%%
+覇 (1895)
+%%
+voice
+%%
+声 (1896)
+%%
+give
+%%
+呉 (1897)
+%%
+recreation
+%%
+娯 (1898)
+%%
+mistake
+%%
+誤 (1899)
+%%
+steam
+%%
+蒸 (1900)
+%%
+acquiesce
+%%
+承 (1901)
+%%
+bin
+%%
+函 (1902)
+%%
+poles
+%%
+極 (1903)
+%%
+tusk
+%%
+牙 (1904)
+%%
+bud
+%%
+芽 (1905)
+%%
+wicked
+%%
+邪 (1906)
+%%
+gracious
+%%
+雅 (1907)
+%%
+explanation
+%%
+釈 (1908)
+%%
+turn
+%%
+番 (1909)
+%%
+hearing
+%%
+審 (1910)
+%%
+flip
+%%
+翻 (1911)
+%%
+clan
+%%
+藩 (1912)
+%%
+fur
+%%
+毛 (1913)
+%%
+decrease
+%%
+耗 (1914)
+%%
+tail
+%%
+尾 (1915)
+%%
+home
+%%
+宅 (1916)
+%%
+consign
+%%
+託 (1917)
+%%
+do
+%%
+為 (1918)
+%%
+falsehood
+%%
+偽 (1919)
+%%
+long
+%%
+長 (1920)
+%%
+lengthen
+%%
+張 (1921)
+%%
+notebook
+%%
+帳 (1922)
+%%
+dilate
+%%
+脹 (1923)
+%%
+hair of the head
+%%
+髪 (1924)
+%%
+unfold
+%%
+展 (1925)
+%%
+miss
+%%
+喪 (1926)
+%%
+nest
+%%
+巣 (1927)
+%%
+simple
+%%
+単 (1928)
+%%
+war
+%%
+戦 (1929)
+%%
+Zen
+%%
+禅 (1930)
+%%
+bullet
+%%
+弾 (1931)
+%%
+cherry tree
+%%
+桜 (1932)
+%%
+animal
+%%
+獣 (1933)
+%%
+brain
+%%
+脳 (1934)
+%%
+trouble
+%%
+悩 (1935)
+%%
+stern
+%%
+厳 (1936)
+%%
+chain
+%%
+鎖 (1937)
+%%
+raise
+%%
+挙 (1938)
+%%
+reputation
+%%
+誉 (1939)
+%%
+game-hunting
+%%
+猟 (1940)
+%%
+bird
+%%
+鳥 (1941)
+%%
+chirp
+%%
+鳴 (1942)
+%%
+crane
+%%
+鶴 (1943)
+%%
+crow
+%%
+烏 (1944)
+%%
+vine
+%%
+蔦 (1945)
+%%
+pigeon
+%%
+鳩 (1946)
+%%
+chicken
+%%
+鶏 (1947)
+%%
+island
+%%
+島 (1948)
+%%
+warmth
+%%
+暖 (1949)
+%%
+beautiful woman
+%%
+媛 (1950)
+%%
+abet
+%%
+援 (1951)
+%%
+slacken
+%%
+緩 (1952)
+%%
+belong
+%%
+属 (1953)
+%%
+entrust
+%%
+嘱 (1954)
+%%
+accidentally
+%%
+偶 (1955)
+%%
+interview
+%%
+遇 (1956)
+%%
+foolish
+%%
+愚 (1957)
+%%
+corner
+%%
+隅 (1958)
+%%
+inverted
+%%
+逆 (1959)
+%%
+model
+%%
+塑 (1960)
+%%
+Mount
+%%
+岡 (1961)
+%%
+steel
+%%
+鋼 (1962)
+%%
+hawser
+%%
+綱 (1963)
+%%
+sturdy
+%%
+剛 (1964)
+%%
+tin can
+%%
+缶 (1965)
+%%
+pottery
+%%
+陶 (1966)
+%%
+swing
+%%
+揺 (1967)
+%%
+Noh chanting
+%%
+謡 (1968)
+%%
+concerning
+%%
+就 (1969)
+%%
+sociable
+%%
+懇 (1970)
+%%
+groundbreaking
+%%
+墾 (1971)
+%%
+excuse
+%%
+免 (1972)
+%%
+deviate
+%%
+逸 (1973)
+%%
+nightfall
+%%
+晩 (1974)
+%%
+exertion
+%%
+勉 (1975)
+%%
+elephant
+%%
+象 (1976)
+%%
+statue
+%%
+像 (1977)
+%%
+horse
+%%
+馬 (1978)
+%%
+pony
+%%
+駒 (1979)
+%%
+verification
+%%
+験 (1980)
+%%
+equestrian
+%%
+騎 (1981)
+%%
+parking/stop-over
+%%
+駐 (1982)
+%%
+drive
+%%
+駆 (1983)
+%%
+station
+%%
+駅 (1984)
+%%
+boisterous
+%%
+騒 (1985)
+%%
+burdensome
+%%
+駄 (1986)
+%%
+wonder
+%%
+驚 (1987)
+%%
+fervent
+%%
+篤 (1988)
+%%
+inflation
+%%
+騰 (1989)
+%%
+tiger
+%%
+虎 (1990)
+%%
+captive
+%%
+虜 (1991)
+%%
+skin
+%%
+膚 (1992)
+%%
+void
+%%
+虚 (1993)
+%%
+frolic
+%%
+戯 (1994)
+%%
+uneasiness
+%%
+虞 (1995)
+%%
+prudence
+%%
+慮 (1996)
+%%
+drama
+%%
+劇 (1997)
+%%
+tyrannize
+%%
+虐 (1998)
+%%
+deer
+%%
+鹿 (1999)
+%%
+recommend
+%%
+薦 (2000)
+%%
+jubilation
+%%
+慶 (2001)
+%%
+lovely
+%%
+麗 (2002)
+%%
+bear
+%%
+熊 (2003)
+%%
+ability
+%%
+能 (2004)
+%%
+attitude
+%%
+態 (2005)
+%%
+sign of the tiger
+%%
+寅 (2006)
+%%
+performance
+%%
+演 (2007)
+%%
+sign of the dragon
+%%
+辰 (2008)
+%%
+embarrass
+%%
+辱 (2009)
+%%
+quake
+%%
+震 (2010)
+%%
+shake
+%%
+振 (2011)
+%%
+with child
+%%
+娠 (2012)
+%%
+lips
+%%
+唇 (2013)
+%%
+agriculture
+%%
+農 (2014)
+%%
+concentrated
+%%
+濃 (2015)
+%%
+send off/escort
+%%
+送 (2016)
+%%
+connection
+%%
+関 (2017)
+%%
+blossom
+%%
+咲 (2018)
+%%
+ghost
+%%
+鬼 (2019)
+%%
+ugly
+%%
+醜 (2020)
+%%
+soul
+%%
+魂 (2021)
+%%
+witch
+%%
+魔 (2022)
+%%
+fascination
+%%
+魅 (2023)
+%%
+clod
+%%
+塊 (2024)
+%%
+attack
+%%
+襲 (2025)
+%%
+upbraid/menacing
+%%
+嚇 (2026)
+%%
+majestic plural
+%%
+朕 (2027)
+%%
+atmosphere
+%%
+雰 (2028)
+%%
+item
+%%
+箇 (2029)
+%%
+tempering
+%%
+錬 (2030)
+%%
+abide by
+%%
+遵 (2031)
+%%
+quit
+%%
+罷 (2032)
+%%
+barracks
+%%
+屯 (2033)
+%%
+moreover
+%%
+且 (2034)
+%%
+seaweed
+%%
+藻 (2035)
+%%
+slave
+%%
+隷 (2036)
+%%
+healing
+%%
+癒 (2037)
+%%
+cinnabar/rust-colored
+%%
+丹 (2038)
+%%
+lagoon
+%%
+潟 (2039)
+%%
+sign of the cow
+%%
+丑 (2040)
+%%
+sign of the hare
+%%
+卯 (2041)
+%%
+sign of the snake
+%%
+巳 (2042)

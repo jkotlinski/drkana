@@ -1,0 +1,935 @@
+one
+%%
+一 (1)
+%%
+two
+%%
+二 (2)
+%%
+three
+%%
+三 (3)
+%%
+four
+%%
+四 (4)
+%%
+five
+%%
+五 (5)
+%%
+six
+%%
+六 (6)
+%%
+seven
+%%
+七 (7)
+%%
+eight
+%%
+八 (8)
+%%
+nine
+%%
+九 (9)
+%%
+ten
+%%
+十 (10)
+%%
+mouth
+%%
+口 (11)
+%%
+day
+%%
+日 (12)
+%%
+month
+%%
+月 (13)
+%%
+rice field
+%%
+田 (14)
+%%
+eye
+%%
+目 (15)
+%%
+old
+%%
+古 (16)
+%%
+I
+%%
+吾 (17)
+%%
+risk
+%%
+冒 (18)
+%%
+companion
+%%
+朋 (19)
+%%
+bright
+%%
+明 (20)
+%%
+chant
+%%
+唱 (21)
+%%
+sparkle
+%%
+晶 (22)
+%%
+goods
+%%
+品 (23)
+%%
+spine
+%%
+呂 (24)
+%%
+prosperous
+%%
+昌 (25)
+%%
+early
+%%
+早 (26)
+%%
+rising sun
+%%
+旭 (27)
+%%
+generation
+%%
+世 (28)
+%%
+stomach
+%%
+胃 (29)
+%%
+nightbreak
+%%
+旦 (30)
+%%
+gall bladder
+%%
+胆 (31)
+%%
+span
+%%
+亘 (32)
+%%
+concave
+%%
+凹 (33)
+%%
+convex
+%%
+凸 (34)
+%%
+olden times
+%%
+旧 (35)
+%%
+oneself
+%%
+自 (36)
+%%
+white
+%%
+白 (37)
+%%
+hundred
+%%
+百 (38)
+%%
+in
+%%
+中 (39)
+%%
+thousand
+%%
+千 (40)
+%%
+tongue
+%%
+舌 (41)
+%%
+measuring box
+%%
+升 (42)
+%%
+rise up
+%%
+昇 (43)
+%%
+round
+%%
+丸 (44)
+%%
+measurement
+%%
+寸 (45)
+%%
+specialty
+%%
+専 (46)
+%%
+Dr.
+%%
+博 (47)
+%%
+fortune-telling
+%%
+占 (48)
+%%
+above
+%%
+上 (49)
+%%
+below
+%%
+下 (50)
+%%
+eminent
+%%
+卓 (51)
+%%
+morning
+%%
+朝 (52)
+%%
+only
+%%
+只 (53)
+%%
+shellfish
+%%
+貝 (54)
+%%
+upright
+%%
+貞 (55)
+%%
+employee
+%%
+員 (56)
+%%
+see
+%%
+見 (57)
+%%
+newborn babe
+%%
+児 (58)
+%%
+beginning
+%%
+元 (59)
+%%
+page
+%%
+頁 (60)
+%%
+stubborn
+%%
+頑 (61)
+%%
+mediocre
+%%
+凡 (62)
+%%
+defeat
+%%
+負 (63)
+%%
+ten thousand
+%%
+万 (64)
+%%
+phrase
+%%
+句 (65)
+%%
+texture
+%%
+肌 (66)
+%%
+decameron
+%%
+旬 (67)
+%%
+ladle
+%%
+勺 (68)
+%%
+bull's eye
+%%
+的 (69)
+%%
+neck
+%%
+首 (70)
+%%
+fishguts
+%%
+乙 (71)
+%%
+riot
+%%
+乱 (72)
+%%
+straightaway
+%%
+直 (73)
+%%
+tool
+%%
+具 (74)
+%%
+true
+%%
+真 (75)
+%%
+craft
+%%
+工 (76)
+%%
+left
+%%
+左 (77)
+%%
+right
+%%
+右 (78)
+%%
+possess
+%%
+有 (79)
+%%
+bribe
+%%
+賄 (80)
+%%
+tribute
+%%
+貢 (81)
+%%
+paragraph
+%%
+項 (82)
+%%
+sword
+%%
+刀 (83)
+%%
+blade
+%%
+刃 (84)
+%%
+cut
+%%
+切 (85)
+%%
+seduce
+%%
+召 (86)
+%%
+shining
+%%
+昭 (87)
+%%
+rule
+%%
+則 (88)
+%%
+vice-
+%%
+副 (89)
+%%
+separate
+%%
+別 (90)
+%%
+street
+%%
+丁 (91)
+%%
+village
+%%
+町 (92)
+%%
+can
+%%
+可 (93)
+%%
+place on the head
+%%
+頂 (94)
+%%
+child
+%%
+子 (95)
+%%
+cavity
+%%
+孔 (96)
+%%
+complete
+%%
+了 (97)
+%%
+woman
+%%
+女 (98)
+%%
+fond
+%%
+好 (99)
+%%
+likeness
+%%
+如 (100)
+%%
+mama
+%%
+母 (101)
+%%
+pierce
+%%
+貫 (102)
+%%
+elder brother
+%%
+兄 (103)
+%%
+overcome
+%%
+克 (104)
+%%
+little
+%%
+小 (105)
+%%
+few
+%%
+少 (106)
+%%
+large
+%%
+大 (107)
+%%
+many
+%%
+多 (108)
+%%
+evening
+%%
+夕 (109)
+%%
+eventide
+%%
+汐 (110)
+%%
+outside
+%%
+外 (111)
+%%
+name
+%%
+名 (112)
+%%
+stone
+%%
+石 (113)
+%%
+resemblance
+%%
+肖 (114)
+%%
+nitrate
+%%
+硝 (115)
+%%
+smash
+%%
+砕 (116)
+%%
+sand
+%%
+砂 (117)
+%%
+plane
+%%
+削 (118)
+%%
+ray
+%%
+光 (119)
+%%
+plump
+%%
+太 (120)
+%%
+utensil
+%%
+器 (121)
+%%
+stinking
+%%
+臭 (122)
+%%
+exquisite
+%%
+妙 (123)
+%%
+focus
+%%
+省 (124)
+%%
+thick
+%%
+厚 (125)
+%%
+strange
+%%
+奇 (126)
+%%
+stream
+%%
+川 (127)
+%%
+state
+%%
+州 (128)
+%%
+obey
+%%
+順 (129)
+%%
+water
+%%
+水 (130)
+%%
+icicle
+%%
+氷 (131)
+%%
+eternity
+%%
+永 (132)
+%%
+spring
+%%
+泉 (133)
+%%
+meadow
+%%
+原 (134)
+%%
+petition
+%%
+願 (135)
+%%
+swim
+%%
+泳 (136)
+%%
+marsh
+%%
+沼 (137)
+%%
+open sea
+%%
+沖 (138)
+%%
+creek
+%%
+江 (139)
+%%
+soup
+%%
+汁 (140)
+%%
+tide
+%%
+潮 (141)
+%%
+source
+%%
+源 (142)
+%%
+lively
+%%
+活 (143)
+%%
+extinguish
+%%
+消 (144)
+%%
+but of course
+%%
+況 (145)
+%%
+river
+%%
+河 (146)
+%%
+overnight
+%%
+泊 (147)
+%%
+lake
+%%
+湖 (148)
+%%
+fathom
+%%
+測 (149)
+%%
+soil
+%%
+土 (150)
+%%
+spit
+%%
+吐 (151)
+%%
+pressure
+%%
+圧 (152)
+%%
+cape
+%%
+埼 (153)
+%%
+hedge
+%%
+垣 (154)
+%%
+square jewel
+%%
+圭 (155)
+%%
+seal
+%%
+封 (156)
+%%
+horizon
+%%
+涯 (157)
+%%
+Buddhist temple
+%%
+寺 (158)
+%%
+time
+%%
+時 (159)
+%%
+level
+%%
+均 (160)
+%%
+fire
+%%
+火 (161)
+%%
+inflammation
+%%
+炎 (162)
+%%
+anxiety
+%%
+煩 (163)
+%%
+thin
+%%
+淡 (164)
+%%
+lamp
+%%
+灯 (165)
+%%
+farm
+%%
+畑 (166)
+%%
+disaster
+%%
+災 (167)
+%%
+ashes
+%%
+灰 (168)
+%%
+spot
+%%
+点 (169)
+%%
+illuminate
+%%
+照 (170)
+%%
+fish
+%%
+魚 (171)
+%%
+fishing
+%%
+漁 (172)
+%%
+ri
+%%
+里 (173)
+%%
+black
+%%
+黒 (174)
+%%
+black ink
+%%
+墨 (175)
+%%
+carp
+%%
+鯉 (176)
+%%
+quantity
+%%
+量 (177)
+%%
+rin
+%%
+厘 (178)
+%%
+bury
+%%
+埋 (179)
+%%
+same
+%%
+同 (180)
+%%
+den
+%%
+洞 (181)
+%%
+trunk
+%%
+胴 (182)
+%%
+yonder
+%%
+向 (183)
+%%
+esteem
+%%
+尚 (184)
+%%
+character
+%%
+字 (185)
+%%
+guard
+%%
+守 (186)
+%%
+perfect
+%%
+完 (187)
+%%
+proclaim
+%%
+宣 (188)
+%%
+wee hours
+%%
+宵 (189)
+%%
+relax
+%%
+安 (190)
+%%
+banquet
+%%
+宴 (191)
+%%
+draw near
+%%
+寄 (192)
+%%
+wealth
+%%
+富 (193)
+%%
+savings
+%%
+貯 (194)
+%%
+tree
+%%
+木 (195)
+%%
+grove
+%%
+林 (196)
+%%
+forest
+%%
+森 (197)
+%%
+Japanese Judas-tree
+%%
+桂 (198)
+%%
+oak
+%%
+柏 (199)
+%%
+frame
+%%
+枠 (200)
+%%
+treetops
+%%
+梢 (201)
+%%
+shelf
+%%
+棚 (202)
+%%
+apricot
+%%
+杏 (203)
+%%
+paulownia
+%%
+桐 (204)
+%%
+plant
+%%
+植 (205)
+%%
+wither
+%%
+枯 (206)
+%%
+crude
+%%
+朴 (207)
+%%
+town
+%%
+村 (208)
+%%
+inter-
+%%
+相 (209)
+%%
+desk
+%%
+机 (210)
+%%
+book
+%%
+本 (211)
+%%
+tag
+%%
+札 (212)
+%%
+calendar
+%%
+暦 (213)
+%%
+plan
+%%
+案 (214)
+%%
+parch
+%%
+燥 (215)
+%%
+not yet
+%%
+未 (216)
+%%
+extremity
+%%
+末 (217)
+%%
+splash
+%%
+沫 (218)
+%%
+flavor
+%%
+味 (219)
+%%
+younger sister
+%%
+妹 (220)
+%%
+vermilion
+%%
+朱 (221)
+%%
+stocks
+%%
+株 (222)
+%%
+young
+%%
+若 (223)
+%%
+grass
+%%
+草 (224)
+%%
+suffering
+%%
+苦 (225)
+%%
+tolerant
+%%
+寛 (226)
+%%
+dilute
+%%
+薄 (227)
+%%
+leaf
+%%
+葉 (228)
+%%
+imitation
+%%
+模 (229)
+%%
+vague
+%%
+漠 (230)
+%%
+grave
+%%
+墓 (231)
+%%
+livelihood
+%%
+暮 (232)
+%%
+membrane
+%%
+膜 (233)
+%%
+seedling
+%%
+苗 (234)
