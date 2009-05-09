@@ -184,7 +184,7 @@ att äta (rep)
 %%
 att vila (rep)
 %%
-おやすみになる、あやすみになります
+おやすみになる
 %%
 någon ger något till mig(resp)
 %%
@@ -192,7 +192,7 @@ någon ger något till mig(resp)
 %%
 att se (resp)
 %%
-ごらんになる、ごらんになります
+ごらんになる
 %%
 att gå, komma, vara (resp)
 %%
