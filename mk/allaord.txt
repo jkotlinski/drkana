@@ -30,10 +30,6 @@ min mor
 %%
 はは
 %%
-mina föräldrar
-%%
-りょうしん
-%%
 CV
 %%
 りれきしょ
@@ -322,7 +318,7 @@ stationsvakt
 %%
 えきいん
 %%
-förändra
+föräldrar (kort)
 %%
 おや
 %%
@@ -466,7 +462,7 @@ skillsmässa
 %%
 りこん
 %%
-förändrar
+föräldrar (lång)
 %%
 りょうしん
 %%
