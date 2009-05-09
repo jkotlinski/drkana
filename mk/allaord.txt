@@ -108,7 +108,7 @@ sådan sak som den här
 %%
 ändelse för flera personer
 %%
-~たち
+〜たち
 %%
 precis
 %%
@@ -200,7 +200,7 @@ att gå, komma, vara (resp)
 %%
 pågående (resp)
 %%
-~ていらっしゃる、〜ていらっしゃります
+〜ていらっしゃる、〜ていらっしゃります
 %%
 att göra (resp)
 %%
@@ -300,7 +300,7 @@ hela dagen
 %%
 men
 %%
-~けど
+〜けど
 %%
 nyligen
 %%
@@ -308,7 +308,7 @@ nyligen
 %%
 om, angående
 %%
-~について
+〜について
 %%
 en gång till
 %%
@@ -366,7 +366,7 @@ att ta ut, skicka ut
 %%
 だす
 %%
-att laga
+att laga (reparera)
 %%
 なおす
 %%
@@ -528,7 +528,7 @@ att sminka
 %%
 Jag undrar om ~
 %%
-~かな（あ）
+〜かな（あ）
 %%
 ganska
 %%
@@ -544,11 +544,11 @@ Till exampel
 %%
 jämfort med ~
 %%
-~にくらべて
+〜にくらべて
 %%
 enligt ~
 %%
-~によると
+〜によると
 %%
 Till slut
 %%
@@ -676,7 +676,7 @@ du måste vara trött
 %%
 kanske så
 %%
-~（ん）だろう
+〜（ん）だろう
 %%
 vad ska jag göra
 %%
@@ -692,7 +692,7 @@ först av allt
 %%
 tills ~
 %%
-~までに
+〜までに
 %%
 relation
 %%
@@ -808,7 +808,7 @@ trafikljus
 %%
 affär som säljer ~
 %%
-~や
+〜や
 %%
 tung
 %%
@@ -900,7 +900,7 @@ att kontakta
 %%
 medan ~
 %%
-~あいだに
+〜あいだに
 %%
 hur som helst
 %%
