@@ -1,0 +1,911 @@
+min storebror
+%%
+あに
+%%
+hyresvärd
+%%
+おおやさん
+%%
+present som ges tillbaka
+%%
+おかえし
+%%
+andras fru
+%%
+おくさん
+%%
+andras man
+%%
+ごしゅじん
+%%
+tallrik
+%%
+さら
+%%
+gosedjur
+%%
+ぬいぐるみ
+%%
+min mor
+%%
+はは
+%%
+mina föräldrar
+%%
+りょうしん
+%%
+CV
+%%
+りれきしょ
+%%
+tant, faster, moster
+%%
+おばさん
+%%
+farbror, morbror
+%%
+おじさん
+%%
+ett äkta par
+%%
+ふうふ
+%%
+mandarin,satsuma
+%%
+みかん
+%%
+ring
+%%
+ゆびわ
+%%
+Jag vill ha
+%%
+ほしい	
+%%
+snål
+%%
+けちだ	
+%%
+att skicka
+%%
+おくる、おくります
+%%
+att ge upp
+%%
+あきらめる、あきらめます
+%%
+att passa bra
+%%
+にあう
+%%
+att ge
+%%
+あげる、あげます
+%%
+någon ger mig något
+%%
+くれる、くれます
+%%
+att kunna göra
+%%
+できる、できます
+%%
+att fria
+%%
+プロポーズする
+%%
+att rådfråga
+%%
+そうだんする
+%%
+samma
+%%
+おなじ
+%%
+fjol
+%%
+きょねん
+%%
+sådan sak som den här
+%%
+こんな~
+%%
+ändelse för flera personer
+%%
+~たち
+%%
+precis
+%%
+ちょうど
+%%
+väl
+%%
+よく
+%%
+målning
+%%
+え
+%%
+biograf
+%%
+えいがかん
+%%
+turisttur
+%%
+かんこう
+%%
+jordbävning
+%%
+じしん
+%%
+att sälja
+%%
+うる、うります
+%%
+att måla, rita
+%%
+かく
+%%
+att leta efter
+%%
+さがす
+%%
+att bjuda ut
+%%
+さそう
+%%
+att sällskapa
+%%
+つきあう
+%%
+att anlända
+%%
+つく
+%%
+att vara försiktig
+%%
+きをつける、きをつけます
+%%
+att undersöka
+%%
+しらべる、しらべます
+%%
+att kasta bort
+%%
+すてる、すてます
+%%
+att kunna se
+%%
+みえる、みえます
+%%
+att säga (rep)
+%%
+おっしゃる、おっしゃります
+%%
+att äta (rep)
+%%
+めしあがる、めしあがります
+%%
+att vila (rep)
+%%
+おやすみになる、あやすみになります
+%%
+någon ger något till mig(resp)
+%%
+くださる、くださります
+%%
+att se (resp)
+%%
+ごらんになる、ごらんになります
+%%
+att gå, komma, vara (resp)
+%%
+いらっしゃる、いらっしゃります
+%%
+pågående (resp)
+%%
+~ていらっしゃる、〜ていらっしゃります
+%%
+att göra (resp)
+%%
+なさる、なさります
+%%
+uttryck av tacksamhet
+%%
+おれい
+%%
+vördnadsuttryck
+%%
+けいご
+%%
+kultur
+%%
+ぶんか
+%%
+att göra (ödm)
+%%
+いたす
+%%
+att få (ödm)
+%%
+いただく
+%%
+att hälsa på (ödm)
+%%
+うかがう
+%%
+att finnas (ödm)
+%%
+おる、おります
+%%
+att finnas (ödm)
+%%
+ござる、ござります
+%%
+att gå, komma (ödm)
+%%
+まいる、まいります
+%%
+att säg (ödm)
+%%
+もうす
+%%
+att ge (ödm)
+%%
+さしあげる、さしあげます
+%%
+jag ber om ursäkt
+%%
+もうしわけない
+%%
+om det går bra (resp)
+%%
+よろしかったら
+%%
+deadline
+%%
+しめきり
+%%
+sedvänja
+%%
+しゅうかん
+%%
+diplomceremoni
+%%
+そつぎょうしき
+%%
+karta
+%%
+ちず
+%%
+batteri
+%%
+でんち
+%%
+presentation
+%%
+はっぴょう
+%%
+plan, avsikt
+%%
+よてい
+%%
+rabattkupong
+%%
+わりびきけん
+%%
+bred
+%%
+ひろい	
+%%
+hela dagen
+%%
+いちにちじゅう
+%%
+men
+%%
+~けど
+%%
+nyligen
+%%
+さいきん
+%%
+om, angående
+%%
+~について
+%%
+en gång till
+%%
+もういちど
+%%
+stationsvakt
+%%
+えきいん
+%%
+förändra
+%%
+おや
+%%
+skräp
+%%
+ごみ
+%%
+socker
+%%
+さとう
+%%
+stipendium
+%%
+しょうがくきん
+%%
+rekommendationsbrev
+%%
+すいせんじょう
+%%
+postgradual utbildning
+%%
+だいがくいん
+%%
+väg
+%%
+みち
+%%
+smutsig
+%%
+きたない	
+%%
+att väcka
+%%
+おこす
+%%
+att bjuda något till någon
+%%
+おごる、おごります
+%%
+att bli besvärad
+%%
+こまる、こまります
+%%
+att ta ut, skicka ut
+%%
+だす
+%%
+att laga
+%%
+なおす
+%%
+att översätta
+%%
+やくす
+%%
+att skratta
+%%
+わらう
+%%
+att samla
+%%
+あつめる、あつめます
+%%
+att stoppa in
+%%
+いれる、いれます
+%%
+att visa
+%%
+みせる、みせます
+%%
+låt mig se
+%%
+ええと
+%%
+under dagen
+%%
+きょうじゅうに
+%%
+här om dagen
+%%
+このあいだ
+%%
+förlåt(intim)
+%%
+ごめん
+%%
+ursäkta mig
+%%
+しつれいします
+%%
+själv
+%%
+じぶんで
+%%
+andra saker
+%%
+ほかの
+%%
+gäst
+%%
+おきゃくさん
+%%
+varmvatten
+%%
+おゆ
+%%
+nyckel
+%%
+かぎ
+%%
+papper
+%%
+かみ
+%%
+lägst, sämst
+%%
+さいてい
+%%
+övertidsarbete
+%%
+ざんぎょう
+%%
+skillnad
+%%
+ちがい
+%%
+anställning
+%%
+しゅうしょく
+%%
+skägg
+%%
+ひげ
+%%
+hemlighet
+%%
+ひみつ
+%%
+skillsmässa
+%%
+りこん
+%%
+förändrar
+%%
+りょうしん
+%%
+avundsjuk
+%%
+うらやましい	
+%%
+få, lite
+%%
+すくない	
+%%
+stark
+%%
+つよい	
+%%
+att välja
+%%
+えらぶ
+%%
+att koka vatten
+%%
+おゆをわかす
+%%
+att kamma håret
+%%
+かみをとかす
+%%
+att bli full av folk
+%%
+こむ
+%%
+att vinna lotteri
+%%
+あたる、あたります
+%%
+att ta va sig kläder
+%%
+ぬぐ
+%%
+att raka
+%%
+そる、そります
+%%
+att göra (te, kaffe)
+%%
+いれる、いれます
+%%
+att låsa
+%%
+かぎをかける、かぎをかけます
+%%
+att läcka till
+%%
+たりる、たります
+%%
+att bli van med
+%%
+なれる、なれます
+%%
+att sminka
+%%
+けしょうする
+%%
+Jag undrar om ~
+%%
+~かな（あ）
+%%
+ganska
+%%
+ずいぶん
+%%
+dessutom
+%%
+それに
+%%
+Till exampel
+%%
+たとえば
+%%
+jämfort med ~
+%%
+~にくらべて
+%%
+enligt ~
+%%
+~によると
+%%
+Till slut
+%%
+やっぱり
+%%
+soja
+%%
+しょうゆ
+%%
+ute
+%%
+そと
+%%
+hyra
+%%
+やちん
+%%
+kylskåp
+%%
+れいぞうこ
+%%
+ljus
+%%
+あかるい	
+%%
+att må illa
+%%
+きぶんがわるい	
+%%
+blyg
+%%
+はずかしい	
+%%
+att öppna sig
+%%
+あく
+%%
+att be om förlåtelse
+%%
+あやまる、あやまります
+%%
+att trycka till
+%%
+おす
+%%
+att tappa
+%%
+おとす
+%%
+vattnet kokar
+%%
+おゆがわく
+%%
+att ramla
+%%
+ころぶ
+%%
+att förstöra
+%%
+こわす
+%%
+att blommor blomma
+%%
+さく
+%%
+något stänger sig
+%%
+しまる、しまります
+%%
+att bli
+%%
+たすかる、たすかります
+%%
+att be
+%%
+たのむ
+%%
+att sättas på
+%%
+つく
+%%
+att smutsa
+%%
+よごす
+%%
+att falla
+%%
+おちる、おちます
+%%
+att fundera
+%%
+かんがえる、かんがえます
+%%
+att försvinna
+%%
+きえる、きえます
+%%
+att gå sönder
+%%
+こわれる、こわれます
+%%
+att bli smutsig
+%%
+よごれる、よごれます
+%%
+att beställa
+%%
+ちゅうもんする
+%%
+genast
+%%
+いますぐ
+%%
+tack vore dig
+%%
+おかげで
+%%
+jag går hem före dig
+%%
+おさきに
+%%
+du måste vara trött
+%%
+おつかれさま
+%%
+kanske så
+%%
+~（ん）だろう
+%%
+vad ska jag göra
+%%
+どうしよう
+%%
+verkligen
+%%
+ほんとうに
+%%
+först av allt
+%%
+まず
+%%
+tills ~
+%%
+~までに
+%%
+relation
+%%
+なか
+%%
+seriös
+%%
+まじめだ	
+%%
+att komma (resp)
+%%
+いらっしゃる、いらっしゃります
+%%
+att köra (ta) någon hem
+%%
+おくる、おくります
+%%
+att bli arg
+%%
+おこる、おこります
+%%
+något bli bestämt
+%%
+きまる、きまります
+%%
+att bli bekant
+%%
+しりあう
+%%
+att flytta
+%%
+ひっこす
+%%
+att ropa
+%%
+よぶ
+%%
+att stanna till
+%%
+よる、よります
+%%
+att bli sen
+%%
+おくれる、おくれます
+%%
+att sitta
+%%
+かける、かけます
+%%
+att bli klarna
+%%
+はれる、はれます
+%%
+att vara populär av den motsatta könen
+%%
+もてる、もてます
+%%
+att vara förbehållsam
+%%
+えんりょする
+%%
+att bjuda mat
+%%
+ごちそうする
+%%
+att bjuda
+%%
+しょうたいする
+%%
+att ge varning
+%%
+ちゅういする
+%%
+varför
+%%
+なぜ
+%%
+i själva verket
+%%
+ほんとうは
+%%
+välkommen
+%%
+ようこそ
+%%
+skicka hälsning
+%%
+よろしく
+%%
+hälsa gott från mig
+%%
+おつたえください
+%%
+gudar(resp)
+%%
+かみさま
+%%
+flygplats
+%%
+くうこう
+%%
+filial
+%%
+してん
+%%
+hobby
+%%
+しゅみ
+%%
+trafikljus
+%%
+しんごう
+%%
+affär som säljer ~
+%%
+~や
+%%
+tung
+%%
+おもい	
+%%
+att gå omkring
+%%
+あるく
+%%
+att svänga
+%%
+まがる、まがります
+%%
+att återvända
+%%
+もどる、もどります
+%%
+att höras
+%%
+きこえる、きこえます
+%%
+att sparka
+%%
+ける、けります
+%%
+att sticka
+%%
+さす
+%%
+att röra vid
+%%
+さわる、さわります
+%%
+att bli fångad
+%%
+つかまる、つかまります
+%%
+att slå in
+%%
+つつむ
+%%
+att slå
+%%
+なぐる、たぐります
+%%
+att stjäla
+%%
+ぬすむ
+%%
+att trampa på
+%%
+ふむ
+%%
+att avslå någons frieri
+%%
+ふる、ふります
+%%
+att mobba
+%%
+いじめる、いじめます
+%%
+att berömma
+%%
+ほめる、ほめます
+%%
+att göra fel
+%%
+まちがえる、まちがえます
+%%
+att upptäcka
+%%
+みつける、みつけます
+%%
+att förbereda
+%%
+じゅんびする
+%%
+att håna
+%%
+ばかにする
+%%
+att bli förvånad
+%%
+びっくりする
+%%
+att kontakta
+%%
+れんらくする
+%%
+medan ~
+%%
+~あいだに
+%%
+hur som helst
+%%
+とにかく
