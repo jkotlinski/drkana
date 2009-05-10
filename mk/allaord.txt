@@ -230,7 +230,7 @@ att hälsa på (ödm)
 %%
 うかがう
 %%
-att finnas (ödm)
+att finnas (levande) (ödm)
 %%
 おる、おります
 %%
@@ -602,7 +602,7 @@ vattnet kokar
 %%
 おゆがわく
 %%
-att ramla
+att falla omkull
 %%
 ころぶ
 %%
@@ -634,7 +634,7 @@ att smutsa
 %%
 よごす
 %%
-att falla
+att falla ner, tappa
 %%
 おちる、おちます
 %%
