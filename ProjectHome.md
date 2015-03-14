@@ -1,0 +1,1 @@
+My own wxPython program for practicing kanjis and Japanese vocabulary.
